@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DownloadCard from '../components/DownloadCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('workshop', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const allDownloads = posts.flatMap((post) =>
+  (post.data.downloads ?? []).map((dl) => ({
+    ...dl,
+    postId: post.id,
+    postTitle: post.data.title,
+  })),
+);
+---
+
+<BaseLayout title="Downloads" description="Free STL files for 3D printing terrain and accessories.">
+  <h1 class="text-3xl font-bold mb-6">Downloads</h1>
+  <p class="text-(--color-text-secondary) mb-8">
+    Free STL files and resources from Workshop posts. All files link to their original hosts.
+  </p>
+  {allDownloads.length === 0 ? (
+    <p class="text-(--color-text-secondary)">No downloads available yet.</p>
+  ) : (
+    <div class="grid gap-4 sm:grid-cols-2">
+      {allDownloads.map(({ label, url, host, postTitle, postId }) => (
+        <div>
+          <DownloadCard label={label} url={url} host={host} />
+          <p class="mt-1 text-xs text-(--color-text-secondary)">
+            From: <a href={`/workshop/${postId}`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
+          </p>
+        </div>
+      ))}
+    </div>
+  )}
+</BaseLayout>

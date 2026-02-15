@@ -1,0 +1,21 @@
+---
+import { NAV_LINKS } from '../consts';
+
+const pathname = Astro.url.pathname;
+---
+
+<nav class="hidden md:flex gap-6" aria-label="Main navigation">
+  {NAV_LINKS.map(({ label, href }) => (
+    <a
+      href={href}
+      class:list={[
+        'text-sm font-medium transition-colors hover:text-(--color-accent)',
+        pathname === href || (href !== '/' && pathname.startsWith(href))
+          ? 'text-(--color-accent)'
+          : 'text-(--color-text-secondary)',
+      ]}
+    >
+      {label}
+    </a>
+  ))}
+</nav>

@@ -1,0 +1,35 @@
+---
+interface Props {
+  tags: string[];
+  activeTag?: string;
+}
+
+const { tags, activeTag } = Astro.props;
+---
+
+<nav class="flex flex-wrap gap-2 mb-8" aria-label="Filter by tag">
+  <a
+    href="/workshop"
+    class:list={[
+      'rounded-full px-3 py-1 text-sm font-medium transition-colors',
+      !activeTag
+        ? 'bg-(--color-accent) text-(--color-surface-900)'
+        : 'bg-(--color-surface-700) text-(--color-text-secondary) hover:text-(--color-accent)',
+    ]}
+  >
+    All
+  </a>
+  {tags.map((tag) => (
+    <a
+      href={`/tags/${tag}`}
+      class:list={[
+        'rounded-full px-3 py-1 text-sm font-medium transition-colors',
+        activeTag === tag
+          ? 'bg-(--color-accent) text-(--color-surface-900)'
+          : 'bg-(--color-surface-700) text-(--color-text-secondary) hover:text-(--color-accent)',
+      ]}
+    >
+      {tag}
+    </a>
+  ))}
+</nav>

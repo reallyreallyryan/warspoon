@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('workshop', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 6);
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <!-- Hero -->
+  <section class="text-center py-12 sm:py-16">
+    <h1 class="text-4xl sm:text-5xl font-bold mb-4">
+      Stir the <span class="text-(--color-accent)">Hobby</span>
+    </h1>
+    <p class="text-lg text-(--color-text-secondary) max-w-2xl mx-auto mb-8">
+      Miniature painting, terrain builds, paint recipes, and tabletop hobby projects.
+    </p>
+    <a
+      href="/workshop"
+      class="inline-block rounded-lg bg-(--color-accent) px-6 py-3 text-sm font-semibold text-(--color-surface-900) hover:bg-(--color-accent-hover) transition-colors"
+    >
+      Browse the Workshop
+    </a>
+  </section>
+
+  <!-- Recent Posts -->
+  {posts.length > 0 && (
+    <section>
+      <h2 class="text-2xl font-bold mb-6">Recent Posts</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map((post) => (
+          <PostCard
+            id={post.id}
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            tags={post.data.tags}
+            cover={post.data.cover}
+            coverAlt={post.data.coverAlt}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>

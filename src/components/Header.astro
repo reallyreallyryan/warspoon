@@ -1,0 +1,15 @@
+---
+import Nav from './Nav.astro';
+import MobileMenu from './MobileMenu.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<header class="sticky top-0 z-40 border-b border-(--color-surface-700) bg-(--color-surface-900)/95 backdrop-blur-sm">
+  <div class="mx-auto max-w-5xl flex items-center justify-between px-4 py-4">
+    <a href="/" class="font-heading uppercase text-lg font-bold tracking-tight text-(--color-text-primary) hover:text-(--color-accent) transition-colors">
+      {SITE_TITLE}
+    </a>
+    <Nav />
+    <MobileMenu />
+  </div>
+</header>

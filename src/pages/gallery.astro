@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('workshop', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const allImages = posts.flatMap((post) =>
+  (post.data.images ?? []).map((img) => ({
+    ...img,
+    postId: post.id,
+    postTitle: post.data.title,
+  })),
+);
+---
+
+<BaseLayout title="Gallery" description="Photos of painted miniatures, terrain, and hobby projects.">
+  <h1 class="text-3xl font-bold mb-6">Gallery</h1>
+  {allImages.length === 0 ? (
+    <p class="text-(--color-text-secondary)">No images yet. Check back soon!</p>
+  ) : (
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {allImages.map(({ src, alt, postId, postTitle }) => (
+        <a
+          href={`/workshop/${postId}`}
+          class="block overflow-hidden rounded-lg group"
+          title={postTitle}
+        >
+          <Image
+            src={src}
+            alt={alt}
+            widths={[400, 800]}
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            class="w-full aspect-square object-cover transition-transform group-hover:scale-105"
+            loading="lazy"
+          />
+        </a>
+      ))}
+    </div>
+  )}
+</BaseLayout>

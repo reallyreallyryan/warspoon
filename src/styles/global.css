@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Oswald", ui-sans-serif, system-ui, sans-serif;
+
+  /* Surfaces – warm parchment */
+  --color-surface-900: oklch(0.96 0.01 85);
+  --color-surface-800: oklch(0.92 0.01 85);
+  --color-surface-700: oklch(0.85 0.015 85);
+
+  /* Text (dark sepia) */
+  --color-text-primary: oklch(0.22 0.02 55);
+  --color-text-secondary: oklch(0.40 0.02 55);
+
+  /* Accent – warm copper */
+  --color-accent: oklch(0.55 0.14 55);
+  --color-accent-hover: oklch(0.48 0.14 55);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-surface-900);
+    color: var(--color-text-primary);
+    line-height: 1.7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  ::selection {
+    background-color: oklch(0.55 0.14 55 / 0.25);
+  }
+
+  /* Prose overrides */
+  .prose {
+    --tw-prose-body: var(--color-text-primary);
+    --tw-prose-headings: var(--color-text-primary);
+    --tw-prose-links: var(--color-accent);
+    --tw-prose-bold: var(--color-text-primary);
+    --tw-prose-counters: var(--color-text-secondary);
+    --tw-prose-bullets: var(--color-text-secondary);
+    --tw-prose-hr: var(--color-surface-700);
+    --tw-prose-quotes: var(--color-text-secondary);
+    --tw-prose-quote-borders: var(--color-accent);
+    --tw-prose-code: var(--color-accent);
+    --tw-prose-pre-bg: var(--color-surface-800);
+    --tw-prose-pre-code: var(--color-text-primary);
+    --tw-prose-th-borders: var(--color-surface-700);
+    --tw-prose-td-borders: var(--color-surface-700);
+  }
+}

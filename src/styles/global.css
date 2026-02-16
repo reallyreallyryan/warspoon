@@ -58,4 +58,9 @@
     --tw-prose-th-borders: var(--color-surface-700);
     --tw-prose-td-borders: var(--color-surface-700);
   }
+
+  .prose img {
+    max-width: 32rem;
+    margin-inline: auto;
+  }
 }

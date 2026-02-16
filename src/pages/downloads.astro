@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import DownloadCard from '../components/DownloadCard.astro';
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('workshop', ({ data }) => !data.draft))
@@ -11,6 +12,8 @@ const allDownloads = posts.flatMap((post) =>
     ...dl,
     postId: post.id,
     postTitle: post.data.title,
+    cover: post.data.cover,
+    coverAlt: post.data.coverAlt,
   })),
 );
 ---
@@ -24,12 +27,26 @@ const allDownloads = posts.flatMap((post) =>
     <p class="text-(--color-text-secondary)">No downloads available yet.</p>
   ) : (
     <div class="grid gap-4 sm:grid-cols-2">
-      {allDownloads.map(({ label, url, host, postTitle, postId }) => (
-        <div>
-          <DownloadCard label={label} url={url} host={host} />
-          <p class="mt-1 text-xs text-(--color-text-secondary)">
-            From: <a href={`/workshop/${postId}`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
-          </p>
+      {allDownloads.map(({ label, url, host, postTitle, postId, cover, coverAlt }) => (
+        <div class="overflow-hidden rounded-lg border border-(--color-border)">
+          {cover && (
+            <a href={`/workshop/${postId}`} class="block group">
+              <Image
+                src={cover}
+                alt={coverAlt || postTitle}
+                widths={[400, 800]}
+                sizes="(max-width: 640px) 100vw, 50vw"
+                class="w-full aspect-video object-cover transition-transform group-hover:scale-105"
+                loading="lazy"
+              />
+            </a>
+          )}
+          <div class="p-4">
+            <DownloadCard label={label} url={url} host={host} />
+            <p class="mt-1 text-xs text-(--color-text-secondary)">
+              From: <a href={`/workshop/${postId}`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
+            </p>
+          </div>
         </div>
       ))}
     </div>

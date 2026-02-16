@@ -6,6 +6,12 @@ tags: ["showcase", "painting", "comic-book"]
 cover: ./adeptus-chibi-airfryer-side.webp
 coverAlt: "Chibi Adeptus Mechanicus tech-priest praying to an air fryer on a Grecian pedestal, painted in comic book style"
 images:
+  - src: ./fafnir-rann-comic-style-main.webp
+    alt: "Fafnir Rann Imperial Fists in comic book style with yellow armor, black lining, and lightning bolt base"
+  - src: ./deathwatch-comic-style-front.webp
+    alt: "Deathwatch space marine with silver armor and red bolter on comic book grass base"
+  - src: ./space-marine-custom-chapter-comic-style-front.webp
+    alt: "Custom chapter space marine in green-grey armor with orange trim, painted in comic book style"
   - src: ./adeptus-chibi-airfryer-side.webp
     alt: "Chibi Adeptus Mechanicus tech-priest praying to an air fryer on a Grecian pedestal, painted in comic book style"
 draft: false
@@ -31,7 +37,9 @@ That's basically it. Black lines define the shapes. Hard highlights sell the lig
 
 ### Fafnir Rann — Imperial Fists, 30K
 
-![Fafnir Rann Imperial Fists miniature painted in comic book style with bold black lining and yellow armor](./fafnir-comic-style-frontview.webp)
+![Fafnir Rann Imperial Fists miniature painted in comic book style with bold black lining and yellow armor](./fafnir-rann-comic-style-main.webp)
+
+![Rear view of Fafnir Rann showing the large shield and back detail](./fafnir-comic-style-rearview.webp)
 
 A Horus Heresy character done in full comic book treatment. The yellow Imperial Fists armor is a great fit for this style — big flat panels that let the black lining really pop. The shield especially is where the style shines, all those straight edges with clean black lines between them.
 
@@ -41,8 +49,9 @@ The base deserves a mention too — blue with yellow lightning bolts painted rig
 
 ### Custom Chapter — Green and Orange
 
-<!-- TODO: Custom chapter marine — front angle showing green armor and orange trim -->
-<!-- TODO: Custom chapter marine — side/back angle showing shoulder pad detail -->
+![Custom chapter space marine in green-grey armor with orange trim, painted in comic book style](./space-marine-custom-chapter-comic-style-front.webp)
+
+![Side view of custom chapter marine showing shoulder pad and bolter detail](./space-marine-custom-chapter-comic-style-side.webp)
 
 This one's not a real chapter — just colors I thought would look good together. That's the beauty of comic book style on space marines: you're already working with bold flat panels and strong silhouettes, so any color scheme that has good contrast will work.
 
@@ -50,7 +59,9 @@ The green-grey armor with orange trim gives you warm-cool contrast without being
 
 ### Deathwatch Marine
 
-<!-- TODO: Deathwatch marine photo — front view showing silver armor and red bolter -->
+![Deathwatch space marine with silver armor and red bolter on comic book grass base](./deathwatch-comic-style-front.webp)
+
+![Side view of Deathwatch marine showing chapter shoulder pad with skull insignia](./deathwatch-comic-style-side.webp)
 
 Silver and black with a red bolter casing. The Deathwatch scheme is already high-contrast, so the comic book treatment amplifies what's already there. The silver armor gets hard white edge highlights that read as reflective glints, and the black lining between silver panels gives every piece of the armor a defined shape.
 

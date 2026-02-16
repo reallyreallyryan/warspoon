@@ -13,6 +13,10 @@ images:
   - src: ./base-with-sign.webp
     alt: "Christmas base with logs, present, and sign post on snowy ground"
 draft: false
+downloads:
+  - label: "Christmas Bases 5-Pack STL"
+    url: "https://makerworld.com/en/models/2356375-christmas-themed-28mm-bases-5-pack#profileId-2577641"
+    host: "MakerWorld"
 ---
 
 I wanted festive bases for a holiday painting project. Couldn't find exactly what I wanted online, so I opened up Blender and made my own. These are the first five designs — simple, printable, and free.
@@ -66,8 +70,7 @@ Only two changes from the default profile — first layer temperature bumped to 
 
 ## Download
 
-<!-- TODO: Add MakerWorld link -->
-**[Download on MakerWorld](#)** — All 5 bases as individual STL files.
+**[Download on MakerWorld](https://makerworld.com/en/models/2356375-christmas-themed-28mm-bases-5-pack#profileId-2577641)** — All 5 bases as individual STL files.
 
 Set 2 is in the works with more designs including a melted snowman base. I'll link it here when it's ready.
 

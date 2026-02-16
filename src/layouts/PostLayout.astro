@@ -27,6 +27,18 @@ const articleSchema = {
   description,
   datePublished: date.toISOString(),
   ...(cover && { image: new URL(cover.src, Astro.site).href }),
+  author: {
+    '@type': 'Person',
+    name: 'Warspoon',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Warspoon',
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': Astro.url.href,
+  },
 };
 ---
 

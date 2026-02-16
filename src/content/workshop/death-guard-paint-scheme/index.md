@@ -19,13 +19,13 @@ images:
 draft: false
 ---
 
-I painted my Death Guard purple. They looked fine. Then I ripped every one of them off their bases and started over — because "fine" wasn't the story I wanted to tell.
+I painted my Death Guard purple. They looked fine. Then I sort of ripped every one of them off their bases and started over. I didn't really want fine, I was looking for something cool af.
 
-I'd seen the 30K Pre-Heresy Death Guard scheme and something clicked. These guys weren't always bloated plague carriers stumbling through toxic fog. They were legionnaires. Clean ivory armor, dark green trim, pride in what they were. The corruption came later — and that's way more interesting to paint than just "everything is gross."
+I'd recently seen the 30K Pre-Heresy Death Guard scheme and something just clicked. These guys weren't always bloated plague carriers stumbling through toxic fog. They were legionnaires. Clean ivory armor, dark green trim, pride in what they were. The corruption came later. To me, this original scheme looked way cooler and more fun to paint than their traditional 40K colors.
 
 So the concept became: paint them like 30K marines first, then let the Nurgle gifts tell their own story on top. Bone-white armor that's still fighting to look clean, with sickly yellows and pinks pushing through wherever the warp has gotten its hooks in.
 
-One thing worth mentioning — since these were repainted over a previous scheme, I think the old paint underneath actually helped. There's a subtle grime and unevenness you get from repriming over a stripped model that you don't get on fresh plastic. Happy accident.
+One thing worth mentioning: since these were repainted over a previous scheme, I think the old paint underneath actually helped. There's a subtle grime and unevenness you get from repriming over a painted model that you don't get on fresh plastic. Happy little accident.
 
 <!-- TODO: Add hero image of finished model here -->
 
@@ -42,7 +42,7 @@ The armor is the biggest surface area, so get this right and everything else fal
 | 1 | Armor, bones, skulls | Pallid Bone — Speed Paint |
 | 2 | Pin wash in armor recesses | Sepia Wash |
 
-Prime white first — full opaque coverage. Speed paints are translucent, so any grey showing through the primer will dull the bone color. You want bright and clean here because everything that comes after is going to dirty it up.
+Prime white first, sort of a full opaque coverage. Speed paints are translucent, so any grey showing through the primer will dull the bone color. You want bright and clean here because everything that comes after is going to dirty it up.
 
 The sepia wash goes into the recesses only (pin wash, not all-over). This keeps the flat armor panels clean while giving you shadow and definition in the cracks and panel lines. That contrast between clean panels and dark recesses is what sells the "this was once pristine armor" look.
 
@@ -54,7 +54,7 @@ The sepia wash goes into the recesses only (pin wash, not all-over). This keeps 
 | 4 | Cloth and capes | Murder Scene (Red) — Speed Paint |
 | 5 | Armor trim and plating | Green Brown — Vallejo |
 
-The green shoulder pads are the classic Death Guard identifier. Absolution Green works, but honestly if I had to do it again I'd go with something a bit more sickly — a desaturated, muted green that reads as "this color has been through some things." The bright green is fine, it just looks a little too healthy for a warband that's been marinating in Nurgle's garden.
+The green shoulder pads are the classic Death Guard identifier. Absolution Green works, but honestly if I had to do it again I'd go with something a bit more sickly. Maybe like a desaturated, muted green that reads more as "this color has been through some things." The dark bright green is fine, it just looks a little too healthy for a warband that's been in Nurgle's garden... marinating.
 
 Murder Scene Red on the cloth gives you that warm contrast against the cool bone and green. It reads as dried and worn, which is exactly right for cloth that's been dragged through a plague ship.
 
@@ -120,11 +120,11 @@ Three steps but they go fast. Base yellow, wash to create depth around the edges
 | 18 | Skulls emerging from armor | Flesh Wash |
 | 19 | Damaged armor recesses | Rust Wash |
 
-The skulls pushing through the armor plates get the same yellow-to-wash treatment as the boils — they're the same kind of corruption, just bigger. Rust wash in the damaged armor cracks ties it all together. Focus the rust near corruption zones — where the belly is splitting, around boil clusters, anywhere the warp is eating the ceramite.
+The skulls pushing through the armor plates get the same yellow-to-wash treatment as the boils. Rust wash in the damaged armor cracks ties it all together. Focus the rust near corruption zones — where the belly is splitting, around boil clusters, anywhere the warp is eating the ceramite.
 
 ### Extras
 
-These aren't numbered steps — more like things I picked up along the way.
+These aren't numbered steps but more like things I picked up along the way.
 
 | Where | Paint | Notes |
 |-------|-------|-------|

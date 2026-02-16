@@ -1,7 +1,7 @@
 ---
 title: "Christmas Themed Miniature Bases — Set 1 (Free STL)"
 description: "Five free 28mm Christmas themed miniature base STLs. Presents, candy canes, logs, and holiday details — designed in Blender, tested on a Bambu A1 Mini with a 0.2mm nozzle."
-date: 2026-02-14
+date: 2025-12-01
 tags: ["bases", "3d-printing", "download"]
 cover: ./all-five-primed.webp
 coverAlt: "All five 28mm Christmas bases primed grey showing sculpted detail"

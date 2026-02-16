@@ -1,7 +1,7 @@
 ---
 title: "Death Guard Toxic Wasteland Bases"
 description: "How I made toxic wasteland bases for my Death Guard using basing glue mixed with paint. Dark earth with sickly green puddles — a simple technique that looks disgusting in the best way."
-date: 2026-02-14
+date: 2026-01-01
 tags: ["death-guard", "bases", "recipe", "showcase"]
 cover: ./cover.webp
 coverAlt: "Biologus Putrifier on toxic wasteland base with green sludge puddles and dark earth"

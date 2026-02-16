@@ -1,7 +1,7 @@
 ---
 title: "Death Guard 30K→40K Corruption Paint Scheme"
 description: "A full paint recipe for Death Guard in a Pre-Heresy bone armor scheme with Nurgle corruption breaking through. Step-by-step with Army Painter Speed Paints and Vallejo, plus lessons learned the hard way."
-date: 2026-02-14
+date: 2025-11-01
 tags: ["death-guard", "recipe", "showcase", "painting"]
 cover: ./cover.webp
 coverAlt: "Typhus, Herald of Nurgle — Death Guard character in bone armor with pink corruption and green shoulder pad"

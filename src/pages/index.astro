@@ -1,7 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import JsonLd from '../components/JsonLd.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE_TITLE,
+  url: 'https://warspoon.com',
+  description: SITE_DESCRIPTION,
+};
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('workshop', ({ data }) => !data.draft))
@@ -10,6 +19,7 @@ const posts = (await getCollection('workshop', ({ data }) => !data.draft))
 ---
 
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <JsonLd schema={websiteSchema} />
   <!-- Hero -->
   <section class="text-center py-12 sm:py-16">
     <h1 class="text-4xl sm:text-5xl font-bold mb-4">

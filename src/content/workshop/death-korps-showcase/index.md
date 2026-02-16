@@ -10,7 +10,7 @@ images:
     alt: "Death Korps infantry squad with weathered coats"
   - src: ./step-2.jpg
     alt: "Death Korps Marshal with power sword"
-draft: false
+draft: true
 ---
 
 ## The Regiment

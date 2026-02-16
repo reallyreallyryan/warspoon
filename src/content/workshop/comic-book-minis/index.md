@@ -59,4 +59,4 @@ If you've been painting for a while and everything's starting to feel like the s
 
 ---
 
-*The Mandrake Kill Team will get its own post when it's finished. For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-30k-40k-corruption-paint-scheme) — about as far from comic book style as you can get.*
+*The Mandrake Kill Team will get its own post when it's finished. For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-paint-scheme) — about as far from comic book style as you can get.*

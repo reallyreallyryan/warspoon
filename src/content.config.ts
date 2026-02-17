@@ -28,6 +28,7 @@ const workshop = defineCollection({
           }),
         )
         .optional(),
+      lastModified: z.coerce.date().optional(),
       draft: z.boolean().default(false),
     }),
 });

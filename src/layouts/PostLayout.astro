@@ -16,9 +16,10 @@ interface Props {
   coverAlt?: string;
   images?: { src: ImageMetadata; alt: string }[];
   downloads?: { label: string; url: string; host?: string }[];
+  lastModified?: Date;
 }
 
-const { title, description, date, tags, cover, coverAlt, images, downloads } = Astro.props;
+const { title, description, date, tags, cover, coverAlt, images, downloads, lastModified } = Astro.props;
 
 const articleSchema = {
   '@context': 'https://schema.org',
@@ -26,6 +27,7 @@ const articleSchema = {
   headline: title,
   description,
   datePublished: date.toISOString(),
+  ...(lastModified && { dateModified: lastModified.toISOString() }),
   ...(cover && { image: new URL(cover.src, Astro.site).href }),
   author: {
     '@type': 'Person',
@@ -42,7 +44,7 @@ const articleSchema = {
 };
 ---
 
-<BaseLayout title={title} description={description} image={cover?.src} ogType="article" publishedDate={date}>
+<BaseLayout title={title} description={description} image={cover?.src} ogType="article" publishedDate={date} modifiedDate={lastModified}>
   <JsonLd schema={articleSchema} />
   <article>
     <header class="mb-8">

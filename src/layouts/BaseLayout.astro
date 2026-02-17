@@ -11,16 +11,17 @@ interface Props {
   image?: string;
   ogType?: string;
   publishedDate?: Date;
+  modifiedDate?: Date;
   noindex?: boolean;
 }
 
-const { title, description, image, ogType, publishedDate, noindex } = Astro.props;
+const { title, description, image, ogType, publishedDate, modifiedDate, noindex } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} image={image} ogType={ogType} publishedDate={publishedDate} noindex={noindex} />
+    <BaseHead title={title} description={description} image={image} ogType={ogType} publishedDate={publishedDate} modifiedDate={modifiedDate} noindex={noindex} />
     <Analytics />
     <ClientRouter />
   </head>

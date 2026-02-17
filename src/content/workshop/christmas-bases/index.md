@@ -1,7 +1,7 @@
 ---
 title: "Christmas Themed Miniature Bases — Set 1 (Free STL)"
 description: "Five free 28mm Christmas themed miniature base STLs. Presents, candy canes, logs, and holiday details — designed in Blender, tested on a Bambu A1 Mini with a 0.2mm nozzle."
-date: 2025-12-01
+date: 2025-12-03
 tags: ["bases", "3d-printing", "download"]
 cover: ./all-five-primed.webp
 coverAlt: "All five 28mm Christmas bases primed grey showing sculpted detail"
@@ -21,7 +21,7 @@ downloads:
     host: "MakerWorld"
 ---
 
-I wanted festive bases for a holiday painting project. Couldn't find exactly what I wanted online, so I opened up Blender and made my own. These are the first five designs — simple, printable, and free.
+I wanted festive bases for a holiday painting project. Couldn't find exactly what I wanted online, so I opened up Blender and made my own. These are the first five designs I created. They're simple, printable, and best of all free.
 
 ## The Designs
 
@@ -43,7 +43,7 @@ A pile of four wrapped boxes, different sizes. Good if you want the gift theme w
 ![Christmas base with four wrapped presents in different sizes](./base-four-presents.webp)
 
 **Base 4 — Logs, Present, and Sign**
-A mix of elements — logs, a gift box, and a small sign. A little bit of everything on one base.
+A mix of elements including logs, a gift box, and a small sign. A little bit of everything on one base.
 
 ![Christmas base with sign post, logs, and a gift box](./base-sign-log-present.webp)
 
@@ -54,7 +54,7 @@ A candy cane standing upright with presents around the base. The vertical candy 
 
 ## Print Settings
 
-These were printed on a **Bambu A1 Mini** with a **0.2mm nozzle** on the textured PEI plate. The fine nozzle picks up the small details on the presents and candy cane ridges nicely.
+These were printed on a **Bambu A1 Mini** with a **0.2mm nozzle** on the textured PEI plate. The fine nozzle picks up the small details on the presents and candy cane ridges nicely. The textured plate was a **pain** in the ass to get that first layer setup. I ended up having to offset my g-code to 0.06 to raise up the nozzle so that first layer or two weren't scraping. I am in the process of trying a flat plate. Could also probably try a 0.4 nozzle, but I was trying to get as much detail as possible out of this little baby printer.
 
 | Setting | Value |
 |---------|-------|
@@ -66,14 +66,14 @@ These were printed on a **Bambu A1 Mini** with a **0.2mm nozzle** on the texture
 | Max volumetric speed | 2 mm³/s |
 | Everything else | Stock Bambu 0.2mm nozzle profile |
 
-Only two changes from the default profile — first layer temperature bumped to 225°C and the Z-offset adjusted for the textured plate. That's it.
+Only two changes from the default profile: first layer temperature bumped to 225°C and the Z-offset adjusted for the textured plate. That's it.
 
 ## Download
 
-**[Download on MakerWorld](https://makerworld.com/en/models/2356375-christmas-themed-28mm-bases-5-pack#profileId-2577641)** — All 5 bases as individual STL files.
+**[Download on MakerWorld](https://makerworld.com/en/models/2356375-christmas-themed-28mm-bases-5-pack#profileId-2577641)** All 5 bases as individual STL files.
 
 Set 2 is in the works with more designs including a melted snowman base. I'll link it here when it's ready.
 
 ---
 
-*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out — especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it.*
+*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out, especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it. What about giving them a [toxic wasteland base](/workshop/toxic-wasteland-bases) treatment?*

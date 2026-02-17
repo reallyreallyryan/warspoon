@@ -1,7 +1,7 @@
 ---
 title: "Comic Book Style Miniature Painting"
 description: "Warhammer 40K miniatures painted in a comic book style with bold black lining and exaggerated highlights. Imperial Fists, Deathwatch, Blood Angels, a custom chapter, and a chibi Admech praying to an air fryer."
-date: 2026-02-01
+date: 2026-02-02
 tags: ["showcase", "painting", "comic-book"]
 cover: ./adeptus-chibi-airfryer-side.webp
 coverAlt: "Chibi Adeptus Mechanicus tech-priest praying to an air fryer on a Grecian pedestal, painted in comic book style"

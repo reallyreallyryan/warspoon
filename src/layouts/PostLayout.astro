@@ -41,6 +41,15 @@ const articleSchema = {
     '@type': 'WebPage',
     '@id': Astro.url.href,
   },
+  ...(downloads?.length && {
+    associatedMedia: downloads.map((dl) => ({
+      '@type': '3DModel',
+      name: dl.label,
+      contentUrl: dl.url,
+      encodingFormat: 'model/stl',
+      isAccessibleForFree: true,
+    })),
+  }),
 };
 ---
 

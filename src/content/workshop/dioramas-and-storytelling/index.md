@@ -41,11 +41,11 @@ I've been pushing myself to think less about "how do I paint this model" and mor
 
 ![Close-up of Helsreach diorama base with dead orks, broken bricks, and golden altar rubble](./helsreach-base-detail.webp)
 
-If you know the [Helsreach story](https://www.blacklibrary.com/warhammer-40000/novels/helsreach-ebook.html), you know the scene. The cathedral is falling. Everything is lost. And Grimaldus is still fighting. Standing on a broken alter, above the wreckage and choking the life out of an ork. Because that's what Black Templars do when the situation is completely hopeless.
+If you know the [Helsreach story](https://www.blacklibrary.com/warhammer-40000/novels/helsreach-ebook.html), you know the scene. The cathedral is falling. Everything is lost. And Grimaldus is still fighting. Standing on a broken altar, above the wreckage and choking the life out of an ork. Because that's what Black Templars do when the situation is completely hopeless.
 
 I wanted to capture that specific moment. Not the wider battle, not the last stand in general, just Grimaldus, mid-strangle, refusing to die in a pile of cathedral rubble.
 
-**Building the base:** I 3D printed an altar and then took a knife to it. Cut it apart, broke pieces off, mixed it with random bits and debris to create a rubble pile that reads as "this was sacred ground about ten minutes ago." The key was making it look destroyed but still recognizable. I needed enough intact detail that the eye fills in what the sacred alter used to look like. If it's too smashed up it just looks like a pile of rocks.
+**Building the base:** I 3D printed an altar and then took a knife to it. Cut it apart, broke pieces off, mixed it with random bits and debris to create a rubble pile that reads as "this was sacred ground about ten minutes ago." The key was making it look destroyed but still recognizable. I needed enough intact detail that the eye fills in what the sacred altar used to look like. If it's too smashed up it just looks like a pile of rocks.
 
 The positioning was everything. Grimaldus had to be elevated enough that the ork "hanging" sells visually. Getting that sense of weight and gravity right with the ork's body hanging down while Grimaldus holds on to his throat is what can make it feel like a moment frozen in time rather than two models glued near each other.
 
@@ -87,7 +87,7 @@ You don't need a full diorama to tell a story. The same thinking scales down to 
 
 **Ask "what just happened?"** Before you base or pose a model, imagine the two seconds before this moment. Did they just land from a jump? Are they bracing against an explosion? Did they just kill something and they're looking for the next target? That context changes how you position the model and what goes on the base.
 
-**One detail carries the narrative.** The sleeping soldier. The middle finger. Grimaldus's grip on the ork's throat. You don't need ten storytelling elements. Pick one that's strong enough to anchor everything else. Even if its a [Adeptus Chibi worshiping an airfyer](/workshop/comic-book-minis). If someone glances at the model and immediately understands what's happening, you've done it.
+**One detail carries the narrative.** The sleeping soldier. The middle finger. Grimaldus's grip on the ork's throat. You don't need ten storytelling elements. Pick one that's strong enough to anchor everything else. Even if it's an [Adeptus Chibi worshiping an airfyer](/workshop/comic-book-minis). If someone glances at the model and immediately understands what's happening, you've done it.
 
 **The base is half the story.** A model standing on a textured base is fine. A model standing in a puddle that's forming around its feet tells you it's been standing there a while. A model on a pile of rubble tells you something just got destroyed. The base isn't decoration it's the setting for your story.
 
@@ -97,4 +97,4 @@ You don't need a full diorama to tell a story. The same thinking scales down to 
 
 ---
 
-*TThe 508th Siege Regiment will get a full army showcase post of its own. This is just a taste of what the Krieg are up to.*
+*The 508th Siege Regiment will get a full army showcase post of its own. This is just a taste of what the Krieg are up to.*

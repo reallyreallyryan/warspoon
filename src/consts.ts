@@ -4,8 +4,8 @@ export const SITE_DESCRIPTION =
 
 export const NAV_LINKS = [
   { label: 'Home', href: '/' },
-  { label: 'Gallery', href: '/gallery' },
-  { label: 'Workshop', href: '/workshop' },
-  { label: 'Downloads', href: '/downloads' },
-  { label: 'About', href: '/about' },
+  { label: 'Gallery', href: '/gallery/' },
+  { label: 'Workshop', href: '/workshop/' },
+  { label: 'Downloads', href: '/downloads/' },
+  { label: 'About', href: '/about/' },
 ] as const;

@@ -2,7 +2,7 @@
 title: "Christmas Themed Miniature Bases — Set 1 (Free STL)"
 description: "Five free 28mm Christmas themed miniature base STLs. Presents, candy canes, logs, and holiday details — designed in Blender, tested on a Bambu A1 Mini with a 0.2mm nozzle."
 date: 2025-12-03
-tags: ["bases", "3d-printing", "download"]
+tags: ["bases", "3d-printing"]
 cover: ./all-five-primed.webp
 coverAlt: "All five 28mm Christmas bases primed grey showing sculpted detail"
 images:
@@ -76,4 +76,4 @@ Set 2 is in the works with more designs including a melted snowman base. I'll li
 
 ---
 
-*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out, especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it. What about giving them a [toxic wasteland base](/workshop/toxic-wasteland-bases) treatment?*
+*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out, especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it. What about giving them a [toxic wasteland base](/workshop/toxic-wasteland-bases/) treatment?*

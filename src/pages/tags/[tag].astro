@@ -3,19 +3,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
 import TagFilter from '../../components/TagFilter.astro';
 import { getCollection } from 'astro:content';
+import { getFilterableTags } from '../../lib/tags';
 
 export async function getStaticPaths() {
   const posts = await getCollection('workshop', ({ data }) => !data.draft);
-  const allTags = [...new Set(posts.flatMap((p) => p.data.tags))].sort();
+  const filteredTags = getFilterableTags(posts);
 
-  return allTags.map((tag) => ({
+  return filteredTags.map((tag) => ({
     params: { tag },
     props: {
       tag,
       posts: posts
         .filter((p) => p.data.tags.includes(tag))
         .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
-      allTags,
+      allTags: filteredTags,
     },
   }));
 }
@@ -23,7 +24,7 @@ export async function getStaticPaths() {
 const { tag, posts, allTags } = Astro.props;
 ---
 
-<BaseLayout title={`${tag.charAt(0).toUpperCase() + tag.slice(1)} Posts`} description={`Warspoon workshop posts tagged with ${tag} — painting tutorials, showcases, and hobby projects.`}>
+<BaseLayout title={`${tag.charAt(0).toUpperCase() + tag.slice(1)} Posts`} description={`Warspoon workshop posts tagged with ${tag} — painting tutorials, showcases, and hobby projects.`} noindex={true}>
   <h1 class="text-3xl font-bold mb-6">
     Tag: <span class="text-(--color-accent)">{tag}</span>
   </h1>

@@ -2,7 +2,7 @@
 title: "Comic Book Style Miniature Painting"
 description: "Warhammer 40K miniatures painted in a comic book style with bold black lining and exaggerated highlights. Imperial Fists, Deathwatch, Blood Angels, a custom chapter, and a chibi Admech praying to an air fryer."
 date: 2026-02-02
-tags: ["showcase", "painting", "comic-book"]
+tags: ["showcase", "painting"]
 cover: ./adeptus-chibi-airfryer-side.webp
 coverAlt: "Chibi Adeptus Mechanicus tech-priest praying to an air fryer on a Grecian pedestal, painted in comic book style"
 images:
@@ -97,4 +97,4 @@ If you've been painting for a while and everything's starting to feel like the s
 
 ---
 
-*For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-paint-scheme) about as far from comic book style as you can get. And the Mandrake Kill Team getting the full comic book treatment will get its own post when the squad is finished.*
+*For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-paint-scheme/) about as far from comic book style as you can get. And the Mandrake Kill Team getting the full comic book treatment will get its own post when the squad is finished.*

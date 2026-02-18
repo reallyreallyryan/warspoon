@@ -18,7 +18,7 @@ const { id, title, description, date, tags, cover, coverAlt } = Astro.props;
 ---
 
 <article class="group rounded-lg border border-(--color-surface-700) bg-(--color-surface-800) overflow-hidden transition-colors hover:border-(--color-accent)">
-  <a href={`/workshop/${id}`} class="block">
+  <a href={`/workshop/${id}/`} class="block">
     {cover ? (
       <Image
         src={cover}
@@ -38,7 +38,7 @@ const { id, title, description, date, tags, cover, coverAlt } = Astro.props;
     <div class="text-xs text-(--color-text-secondary) mb-2">
       <FormattedDate date={date} />
     </div>
-    <a href={`/workshop/${id}`} class="block">
+    <a href={`/workshop/${id}/`} class="block">
       <h2 class="text-lg font-semibold mb-2 group-hover:text-(--color-accent) transition-colors">
         {title}
       </h2>

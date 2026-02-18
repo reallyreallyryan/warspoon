@@ -8,15 +8,12 @@ export async function GET(context: APIContext) {
 
   const staticPages = ['/', '/about/', '/gallery/', '/downloads/', '/workshop/'];
 
-  const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
-
   const urls = [
     ...staticPages.map((path) => `  <url><loc>${site}${path}</loc></url>`),
     ...posts.map(
       (post) =>
         `  <url><loc>${site}/workshop/${post.id}/</loc><lastmod>${post.data.date.toISOString().slice(0, 10)}</lastmod></url>`,
     ),
-    ...tags.map((tag) => `  <url><loc>${site}/tags/${tag}/</loc></url>`),
   ];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>

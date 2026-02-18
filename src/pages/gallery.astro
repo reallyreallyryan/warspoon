@@ -23,7 +23,7 @@ const allImages = posts.flatMap((post) =>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {allImages.map(({ src, alt, postId, postTitle }) => (
         <a
-          href={`/workshop/${postId}`}
+          href={`/workshop/${postId}/`}
           class="block overflow-hidden rounded-lg group"
           title={postTitle}
         >

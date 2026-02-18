@@ -2,7 +2,7 @@
 title: "Telling Stories With Miniatures | Grimdark Dioramas and Beyond"
 description: "How I approach narrative miniature building. From a Helsreach diorama to a space marine flipping off tyranids to a Krieg artillery crew caught napping. Storytelling at every scale."
 date: 2026-02-17
-tags: ["showcase", "terrain", "story", "krieg", "deathwatch", "tyranids", "black-templars"]
+tags: ["showcase", "terrain"]
 cover: ./cover.webp
 coverAlt: "Deathwatch space marine diorama from the rear — a lone marine with rocket launcher faces down a swarm of tyranids pouring over a bulkhead"
 images:
@@ -79,7 +79,7 @@ The gun crew is in position, mud everywhere, toxic puddles pooling around the ba
 
 The sleeping soldier getting scorned turns a standard artillery piece into a scene. You can hear the argument. You can imagine what happens next. It's a tiny piece of military life that makes the whole unit feel like real people instead of identical guardsmen pointing guns at things. I also find the irony of sleeping next to artillery and being told to 'shush' funny.
 
-**The basing work** ties it all together. Thick mud built up around the gun platform, toxic puddles using the toxic puddle idea technique from my [Death Guard bases](/workshop/toxic-wasteland-bases) but in a more muted, non-nurgle palette. The whole thing looks like it's been sitting in the same churned-up position for days.
+**The basing work** ties it all together. Thick mud built up around the gun platform, toxic puddles using the toxic puddle idea technique from my [Death Guard bases](/workshop/toxic-wasteland-bases/) but in a more muted, non-nurgle palette. The whole thing looks like it's been sitting in the same churned-up position for days.
 
 ## How I Think About Storytelling at Every Scale
 
@@ -87,7 +87,7 @@ You don't need a full diorama to tell a story. The same thinking scales down to 
 
 **Ask "what just happened?"** Before you base or pose a model, imagine the two seconds before this moment. Did they just land from a jump? Are they bracing against an explosion? Did they just kill something and they're looking for the next target? That context changes how you position the model and what goes on the base.
 
-**One detail carries the narrative.** The sleeping soldier. The middle finger. Grimaldus's grip on the ork's throat. You don't need ten storytelling elements. Pick one that's strong enough to anchor everything else. Even if it's an [Adeptus Chibi worshiping an airfyer](/workshop/comic-book-minis). If someone glances at the model and immediately understands what's happening, you've done it.
+**One detail carries the narrative.** The sleeping soldier. The middle finger. Grimaldus's grip on the ork's throat. You don't need ten storytelling elements. Pick one that's strong enough to anchor everything else. Even if it's an [Adeptus Chibi worshiping an airfyer](/workshop/comic-book-minis/). If someone glances at the model and immediately understands what's happening, you've done it.
 
 **The base is half the story.** A model standing on a textured base is fine. A model standing in a puddle that's forming around its feet tells you it's been standing there a while. A model on a pile of rubble tells you something just got destroyed. The base isn't decoration it's the setting for your story.
 

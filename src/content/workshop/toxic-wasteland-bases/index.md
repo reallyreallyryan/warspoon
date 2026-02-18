@@ -12,10 +12,16 @@ images:
     alt: "Three Plague Marines from behind showing toxic wasteland bases with green sludge puddles"
   - src: ./groupshot.webp
     alt: "Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters"
+  - src: ./top-view-toxic-bases.webp
+    alt: "Top-down close-up of a Death Guard base showing layered toxic green sludge texture"
+  - src: ./character-toxic-plague-bases.webp
+    alt: "Character base close-up with cork rocks, dark earth, and layered green toxic puddles"
+  - src: ./toxic-plauge-bases.webp
+    alt: "Two Plague Marine bases from a low angle showing a more solid painted-looking toxic effect"
 draft: false
 ---
 
-When I repainted my Death Guard from purple to [bone armor with Nurgle corruption](/workshop/death-guard-paint-scheme), the old autumn leaf bases suddenly made no sense. These guys needed to be standing in something that matched the story. Something with so much corruption, so severe, it's poisoning the ground they walk on.
+When I repainted my Death Guard from purple to [bone armor with Nurgle corruption](/workshop/death-guard-paint-scheme/), the old autumn leaf bases suddenly made no sense. These guys needed to be standing in something that matched the story. Something with so much corruption, so severe, it's poisoning the ground they walk on.
 
 I wanted something that felt like a toxic wasteland without getting complicated. No resin pours, no fancy texture pastes, no buying specialized products. What I ended up with was embarrassingly simple: basing glue mixed with paint.
 
@@ -55,11 +61,15 @@ Don't touch it. The basing glue needs to fully set before you do anything else. 
 
 The **characters and Terminators came out great.** I built the toxic effect up in layers. A base layer of the glue mixture, let it dry, then switched to water texture layers on top. That layering gives you depth and variation in the color. Some spots are thicker and more opaque, some are thinner and the dark earth shows through. It looks like toxic sludge at different stages of accumulation.
 
+![Character base close-up with cork rocks, dark earth, and layered green toxic puddles](./character-toxic-plague-bases.webp)
+
 The **overall contrast with the bone armor is exactly right.** Dark murky base, bright corrupted model on top. The cool greens in the base play against the warm bone and yellow corruption on the marines. It photographs well too (I think).
 
 ## What I'd Do Differently
 
 ![Three Plague Marines from behind showing toxic wasteland bases with green sludge puddles](./plague-marines-back.webp)
+
+![Two Plague Marine bases from a low angle showing a more solid painted-looking toxic effect](./toxic-plauge-bases.webp)
 
 The **[Plague Marine](https://wh40k.lexicanum.com/wiki/Plague_Marine) bases got too much paint in the glue mixture.** I went heavier on the paint ratio than I did with the characters, and it dried too solid. On some of those models, it looks more like a painted surface than a gross, textured sludge. The characters had a better balance where you could still see the translucency and texture of the glue coming through.
 
@@ -73,7 +83,7 @@ Some of the basing glue spilled over the rims of the bases. It dripped down the 
 
 Could I have done it more intentionally and made it look cleaner? Absolutely. But the effect works, and sometimes the best results come from committing to an accident instead of fighting it.
 
-<!-- TODO: Close-up of toxic puddle texture -->
+![Top-down close-up of a Death Guard base showing layered toxic green sludge texture](./groupshot.webp)
 <!-- TODO: Side view showing rim/spill effect -->
 
 ## A Note on Adhesion
@@ -82,6 +92,6 @@ The basing glue holds the models to the bases reasonably well for display and ca
 
 For characters and bigger models, consider pinning through the foot into the base before the glue step. Belt and suspenders.
 
-![Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters](./groupshot.webp)
+![Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters](./top-view-toxic-bases.webp)
 
 ---

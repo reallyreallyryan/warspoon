@@ -8,7 +8,7 @@ const workshop = defineCollection({
       title: z.string(),
       description: z.string(),
       date: z.coerce.date(),
-      tags: z.array(z.string()),
+      tags: z.array(z.enum(['showcase', 'death-guard', 'recipe', 'painting', 'bases', '3d-printing', 'terrain'])),
       cover: image().optional(),
       coverAlt: z.string().optional(),
       images: z

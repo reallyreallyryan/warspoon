@@ -23,7 +23,7 @@ const downloadsSchema = {
   '@type': 'CollectionPage',
   name: 'Free STL Files for Miniature Bases & Terrain',
   description: 'Download free 3D-printable STL files for 28mm miniature bases and terrain. Designed in Blender, tested on FDM printers.',
-  url: 'https://warspoon.com/downloads',
+  url: 'https://warspoon.com/downloads/',
   mainEntity: {
     '@type': 'ItemList',
     itemListElement: allDownloads.map((dl, i) => ({
@@ -38,7 +38,7 @@ const downloadsSchema = {
         isPartOf: {
           '@type': 'Article',
           name: dl.postTitle,
-          url: `https://warspoon.com/workshop/${dl.postId}`,
+          url: `https://warspoon.com/workshop/${dl.postId}/`,
         },
       },
     })),
@@ -59,7 +59,7 @@ const downloadsSchema = {
       {allDownloads.map(({ label, url, host, postTitle, postId, cover, coverAlt }) => (
         <div class="overflow-hidden rounded-lg border border-(--color-border)">
           {cover && (
-            <a href={`/workshop/${postId}`} class="block group">
+            <a href={`/workshop/${postId}/`} class="block group">
               <Image
                 src={cover}
                 alt={coverAlt || postTitle}
@@ -73,7 +73,7 @@ const downloadsSchema = {
           <div class="p-4">
             <DownloadCard label={label} url={url} host={host} />
             <p class="mt-1 text-xs text-(--color-text-secondary)">
-              From: <a href={`/workshop/${postId}`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
+              From: <a href={`/workshop/${postId}/`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
             </p>
           </div>
         </div>

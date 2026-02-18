@@ -8,14 +8,16 @@ coverAlt: "Biologus Putrifier on toxic wasteland base with green sludge puddles 
 images:
   - src: ./typhus-base-overhead.webp
     alt: "Typhus model from above showing toxic wasteland base with green puddles and cork rock details"
+  - src: ./plague-marines-back.webp
+    alt: "Three Plague Marines from behind showing toxic wasteland bases with green sludge puddles"
+  - src: ./groupshot.webp
+    alt: "Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters"
 draft: false
 ---
 
 When I repainted my Death Guard from purple to [bone armor with Nurgle corruption](/workshop/death-guard-paint-scheme), the old autumn leaf bases suddenly made no sense. These guys needed to be standing in something that matched the story. Something with so much corruption, so severe, it's poisoning the ground they walk on.
 
 I wanted something that felt like a toxic wasteland without getting complicated. No resin pours, no fancy texture pastes, no buying specialized products. What I ended up with was embarrassingly simple: basing glue mixed with paint.
-
-<!-- TODO: Hero shot — finished base with model standing on it -->
 
 ## The Concept
 
@@ -57,6 +59,8 @@ The **overall contrast with the bone armor is exactly right.** Dark murky base, 
 
 ## What I'd Do Differently
 
+![Three Plague Marines from behind showing toxic wasteland bases with green sludge puddles](./plague-marines-back.webp)
+
 The **[Plague Marine](https://wh40k.lexicanum.com/wiki/Plague_Marine) bases got too much paint in the glue mixture.** I went heavier on the paint ratio than I did with the characters, and it dried too solid. On some of those models, it looks more like a painted surface than a gross, textured sludge. The characters had a better balance where you could still see the translucency and texture of the glue coming through.
 
 I want to go back and build up another layer on top of the Plague Marine bases to fix this. Honestly though, it does still work as a first layer. It's a dried, crusted base of toxicity that I can add wetter-looking stuff on top of. That's basically what worked on the Terminators and characters anyway. Layer it up.
@@ -71,7 +75,6 @@ Could I have done it more intentionally and made it look cleaner? Absolutely. Bu
 
 <!-- TODO: Close-up of toxic puddle texture -->
 <!-- TODO: Side view showing rim/spill effect -->
-<!-- TODO: Multiple bases together showing consistency -->
 
 ## A Note on Adhesion
 
@@ -79,6 +82,6 @@ The basing glue holds the models to the bases reasonably well for display and ca
 
 For characters and bigger models, consider pinning through the foot into the base before the glue step. Belt and suspenders.
 
-<!-- TODO: Gallery of finished bases with models -->
+![Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters](./groupshot.webp)
 
 ---

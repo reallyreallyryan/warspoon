@@ -47,7 +47,7 @@ Yellow is also notoriously annoying to paint traditionally (thin coats, multiple
 
 The base deserves a mention too! I did a simple blue with yellow lightning bolts painted right on, keeping the whole thing in that comic book flat-color energy. No texture paste, no extras, just bold shapes and color.
 
-### Custom Chapter — Green and Orange
+### Custom Chapter in Green and Orange
 
 ![Custom chapter space marine in green-grey armor with orange trim, painted in comic book style](./space-marine-custom-chapter-comic-style-front.webp)
 
@@ -57,7 +57,7 @@ This one's not a real chapter. I added a few colors together that I thought woul
 
 The green-grey armor with orange trim gives you warm-cool contrast. The black lining between the armor panels and around the shoulder pads is what really makes the orange trim pop. The cracked moon style base keeps the comic styling going. With the dark lines radiating out of the craters, it looks almost like impact cracks are coming out at you.
 
-### Deathwatch Marine
+### Deathwatch Space Marine
 
 ![Deathwatch space marine with silver armor and red bolter on comic book grass base](./deathwatch-comic-style-front.webp)
 
@@ -65,7 +65,7 @@ The green-grey armor with orange trim gives you warm-cool contrast. The black li
 
 Silver and 'black' with a red bolter casing. The Deathwatch scheme is already high-contrast, so the comic book treatment amplifies what's already there. The silver armor gets hard white edge highlights that read as reflective glints, and the black lining between silver panels gives every piece of the armor a defined shape. The black on the armor is really a Deep Grey. I had to go grey because you need highlights and shadows with comic book style, and its hard to add a shadow to black. 
 
-The red bolter is a nice focal point against all that silver-black. And the base patined as bright green comic book grass with bold outlines is probably the most overtly "comic panel" element on any of these models. It doesn't look like real grass. It looks like someone drew grass. That's the point, duh.
+The red bolter is a nice focal point against all that silver-black. And the base patined as [bright green comic book grass with bold outlines](https://www.youtube.com/watch?v=zvu347jg4V4&list=PLNNJC5RXt26zWQUmwO4j-dj28J_jyoAen&index=33) is probably the most overtly "comic panel" element on any of these models. It doesn't look like real grass. It looks like someone drew grass. That's the point, duh.
 
 ### Blood Angels Marine
 
@@ -73,7 +73,7 @@ The red bolter is a nice focal point against all that silver-black. And the base
 
 Red armor is another scheme that benefits from this approach. The comic book highlights on red read as dramatic lighting. It's like a comic panel where the Blood Angel is stepping into the light, bright flashes off the helmet and shoulder pads. The black lining between red panels gives the armor definition without needing to shade with darker reds or washes.
 
-### Adeptus Mechanicus Chibi — Praying to an Air Fryer
+### Adeptus Mechanicus Chibi Praying to an Air Fryer
 
 ![Chibi Adeptus Mechanicus tech-priest kneeling before an air fryer on a Grecian pedestal, painted in comic book style](./adeptus-chibi-airfryer-side.webp)
 

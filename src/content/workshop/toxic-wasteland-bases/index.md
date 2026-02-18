@@ -33,11 +33,11 @@ Nothing exotic.
 
 ## The Technique
 
-### Step 1 — Dark Earth Base
+### Step 1: Dark Earth Base
 
 Get your base textured with whatever ground material you normally use. I used textured terrain paint and reminants already on my bases from the previous scheme. Paint it dark! A mix of dark brown and dark green so it reads as dead, poisoned earth rather than healthy dirt. Let it fully cure. This of this as the base layer, the deepest, darkest layer.
 
-### Step 2 — The Toxic Puddles
+### Step 2:a The Toxic Puddles
 
 This is the whole trick. Mix your lighter toxic green paint directly into the basing glue and/or water texture. You want it opaque enough to read as slime but still fluid enough to spread when a model presses into it. What I did was take a little bit of water on my brush and watered the paint down. I then used these watery-paint streaks to add to my mix. Light enough so it reads as a green liquid, not green paint. 
 
@@ -45,7 +45,7 @@ Coat the bottom of the model's feet with the mixture. Press the model down onto 
 
 Take whatever's left on your brush or tool and make puddles around the feet. I tried to do veins spreading outward from the footprints, but honestly it was too fiddly. I ended up just making messy puddles. They looked great anyways. Toxic slime doesn't make neat patterns.
 
-### Step 3 — Let It Cure
+### Step 3: Let It Cure
 
 Don't touch it. The basing glue needs to fully set before you do anything else. If you mess with it while it's tacky you'll lose the texture.
 
@@ -57,7 +57,7 @@ The **overall contrast with the bone armor is exactly right.** Dark murky base, 
 
 ## What I'd Do Differently
 
-The **Plague Marine bases got too much paint in the glue mixture.** I went heavier on the paint ratio than I did with the characters, and it dried too solid. On some of those models, it looks more like a painted surface than a gross, textured sludge. The characters had a better balance where you could still see the translucency and texture of the glue coming through.
+The **[Plague Marine](https://wh40k.lexicanum.com/wiki/Plague_Marine) bases got too much paint in the glue mixture.** I went heavier on the paint ratio than I did with the characters, and it dried too solid. On some of those models, it looks more like a painted surface than a gross, textured sludge. The characters had a better balance where you could still see the translucency and texture of the glue coming through.
 
 I want to go back and build up another layer on top of the Plague Marine bases to fix this. Honestly though, it does still work as a first layer. It's a dried, crusted base of toxicity that I can add wetter-looking stuff on top of. That's basically what worked on the Terminators and characters anyway. Layer it up.
 

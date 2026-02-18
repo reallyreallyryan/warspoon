@@ -31,8 +31,6 @@ A miniature on a plain base is a game piece. A miniature that looks like it's in
 
 I've been pushing myself to think less about "how do I paint this model" and more about "what is this model doing right now." That applies at every scale — from full dioramas with custom terrain down to a single infantry model with a muddy base and a bit of attitude. Here's what I've built and what I've learned.
 
-![Deathwatch space marine diorama from the rear — a lone marine with rocket launcher faces down a swarm of tyranids pouring over a bulkhead](./cover.webp)
-
 ## The Dioramas
 
 ### Grimaldus at Helsreach — The Last Stand

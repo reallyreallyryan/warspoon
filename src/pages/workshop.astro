@@ -11,7 +11,7 @@ const posts = (await getCollection('workshop', ({ data }) => !data.draft))
 const allTags = getFilterableTags(posts);
 ---
 
-<BaseLayout title="Painting Tutorials, Recipes & Hobby Projects" description="Step-by-step painting tutorials, paint recipes, 3D printing guides, and miniature hobby projects for Warhammer 40K and tabletop wargaming.">
+<BaseLayout title="Warhammer 40K Painting Tutorials & Paint Recipes" description="Step-by-step painting tutorials, paint recipes, 3D printing guides, and miniature hobby projects for Warhammer 40K and tabletop wargaming.">
   <h1 class="text-3xl font-bold mb-6">Workshop</h1>
   <TagFilter tags={allTags} />
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

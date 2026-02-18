@@ -1,6 +1,6 @@
 export const SITE_TITLE = 'Warspoon';
 export const SITE_DESCRIPTION =
-  'Miniature painting, terrain builds, paint recipes, and tabletop hobby projects. Stir the hobby.';
+  'Warspoon is a hobby site for Warhammer 40K miniature painting, terrain builds, paint recipes, and free STL downloads. No ads — just hobby content.';
 
 export const NAV_LINKS = [
   { label: 'Home', href: '/' },

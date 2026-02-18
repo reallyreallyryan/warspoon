@@ -18,7 +18,7 @@ const posts = (await getCollection('workshop', ({ data }) => !data.draft))
   .slice(0, 6);
 ---
 
-<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+<BaseLayout title="Warhammer 40K Miniature Painting & Hobby Blog" description={SITE_DESCRIPTION}>
   <JsonLd schema={websiteSchema} />
   <!-- Hero -->
   <section class="text-center py-12 sm:py-16">

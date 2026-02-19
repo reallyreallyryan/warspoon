@@ -1,6 +1,6 @@
 ---
 title: "Comic Book Style Miniature Painting"
-description: "Warhammer 40K miniatures painted in a comic book style with bold black lining and exaggerated highlights. Imperial Fists, Deathwatch, Blood Angels, a custom chapter, and a chibi Admech praying to an air fryer."
+description: "Warhammer 40K miniatures painted in a comic book style with bold black lining and exaggerated highlights. Imperial Fists, Deathwatch, Custom Chapters, and a chibi Admech praying to an air fryer."
 date: 2026-02-02
 tags: ["showcase", "painting"]
 cover: ./adeptus-chibi-airfryer-side.webp
@@ -14,6 +14,10 @@ images:
     alt: "Custom chapter space marine in green-grey armor with orange trim, painted in comic book style"
   - src: ./adeptus-chibi-airfryer-side.webp
     alt: "Chibi Adeptus Mechanicus tech-priest praying to an air fryer on a Grecian pedestal, painted in comic book style"
+  - src: ./comic-book-minis-group-shot.webp
+    alt: "Group shot of all comic book style miniatures together"
+  - src: ./comic-book-minis-group-shot-close.webp
+    alt: "Close-up group shot of comic book style painted miniatures"
 draft: false
 ---
 
@@ -21,7 +25,7 @@ Most miniature painting advice points you toward smooth blends, thin layers, and
 
 It's not better or worse than traditional painting. It's just a completely different energy. A blended model looks like a tiny real person. A comic book model looks like it stepped out of a panel. Both are cool. To me,  This one's more fun.
 
-<!-- TODO: Hero image — group shot of all five models together if possible -->
+![Group shot of all comic book style miniatures together](./comic-book-minis-group-shot.webp)
 
 ## What Makes It Comic Book
 
@@ -67,12 +71,6 @@ Silver and 'black' with a red bolter casing. The Deathwatch scheme is already hi
 
 The red bolter is a nice focal point against all that silver-black. And the base patined as [bright green comic book grass with bold outlines](https://www.youtube.com/watch?v=zvu347jg4V4&list=PLNNJC5RXt26zWQUmwO4j-dj28J_jyoAen&index=33) is probably the most overtly "comic panel" element on any of these models. It doesn't look like real grass. It looks like someone drew grass. That's the point, duh.
 
-### Blood Angels Marine
-
-<!-- TODO: Blood Angels marine photo — showing red armor with comic book treatment -->
-
-Red armor is another scheme that benefits from this approach. The comic book highlights on red read as dramatic lighting. It's like a comic panel where the Blood Angel is stepping into the light, bright flashes off the helmet and shoulder pads. The black lining between red panels gives the armor definition without needing to shade with darker reds or washes.
-
 ### Adeptus Mechanicus Chibi Praying to an Air Fryer
 
 ![Chibi Adeptus Mechanicus tech-priest kneeling before an air fryer on a Grecian pedestal, painted in comic book style](./adeptus-chibi-airfryer-side.webp)
@@ -93,7 +91,7 @@ It works on (pretty much) any model too. From Horus Heresy characters to chibi j
 
 If you've been painting for a while and everything's starting to feel like the same process on different models, try this on something small. Pick a model you're not precious about, grab a fine-tip brush for the lining, and just go for it. Worst case you mess it up and get to try again. Best case you find a style that makes painting fun in a way it hasn't been for a minute.
 
-<!-- TODO: Gallery of all comic book minis together -->
+![Close-up group shot of comic book style painted miniatures](./comic-book-minis-group-shot-close.webp)
 
 ---
 

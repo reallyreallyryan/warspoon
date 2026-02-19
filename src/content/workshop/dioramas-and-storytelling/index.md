@@ -8,10 +8,14 @@ coverAlt: "Deathwatch space marine diorama from the rear — a lone marine with 
 images:
   - src: ./cover.webp
     alt: "Deathwatch space marine diorama from the rear — a lone marine with rocket launcher faces down a swarm of tyranids pouring over a bulkhead"
-  - src: ./helsreach-wide.webp
-    alt: "Helsreach diorama WIP showing ork bodies and cathedral altar base"
-  - src: ./helsreach-base-detail.webp
-    alt: "Close-up of Helsreach diorama base with dead orks, broken bricks, and golden altar rubble"
+  - src: ./helsreach-diorama-finished-main.webp
+    alt: "Completed Helsreach diorama showing Grimaldus on a ruined cathedral altar choking an ork"
+  - src: ./helsreach-diorama-finished-side.webp
+    alt: "Side view of Helsreach diorama showing Grimaldus strangling the ork amid cathedral rubble"
+  - src: ./helsreach-diorama-finished-rear.webp
+    alt: "Rear view of the completed Helsreach diorama with ruined altar and debris"
+  - src: ./helsreach-diorama-finished-otherside.webp
+    alt: "Other side of the Helsreach diorama showing the full scene of destruction"
   - src: ./deathwatch-tyranid-wide.webp
     alt: "Deathwatch space marine diorama — lone marine fires rocket at point-blank range into a swarm of purple tyranids"
   - src: ./deathwatch-middle-finger.webp
@@ -35,11 +39,13 @@ I've been pushing myself to think less about "how do I paint this model" and mor
 
 ### Grimaldus at Helsreach: The Last Stand
 
-![Helsreach diorama WIP showing ork bodies and cathedral altar base](./helsreach-wide.webp)
+![Completed Helsreach diorama showing Grimaldus on a ruined cathedral altar choking an ork](./helsreach-diorama-finished-main.webp)
 
-<!-- TODO: Helsreach diorama — close-up of Grimaldus choking the ork -->
+![Side view of Helsreach diorama showing Grimaldus strangling the ork amid cathedral rubble](./helsreach-diorama-finished-side.webp)
 
-![Close-up of Helsreach diorama base with dead orks, broken bricks, and golden altar rubble](./helsreach-base-detail.webp)
+![Rear view of the completed Helsreach diorama with ruined altar and debris](./helsreach-diorama-finished-rear.webp)
+
+![Other side of the Helsreach diorama showing the full scene of destruction](./helsreach-diorama-finished-otherside.webp)
 
 If you know the [Helsreach story](https://www.blacklibrary.com/warhammer-40000/novels/helsreach-ebook.html), you know the scene. The cathedral is falling. Everything is lost. And Grimaldus is still fighting. Standing on a broken altar, above the wreckage and choking the life out of an ork. Because that's what Black Templars do when the situation is completely hopeless.
 

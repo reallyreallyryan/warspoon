@@ -4,11 +4,12 @@ import JsonLd from '../components/JsonLd.astro';
 import DownloadCard from '../components/DownloadCard.astro';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
+import { standaloneDownloads } from '../data/standalone-downloads';
 
 const posts = (await getCollection('workshop', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const allDownloads = posts.flatMap((post) =>
+const postDownloads = posts.flatMap((post) =>
   (post.data.downloads ?? []).map((dl) => ({
     ...dl,
     postId: post.id,
@@ -17,6 +18,14 @@ const allDownloads = posts.flatMap((post) =>
     coverAlt: post.data.coverAlt,
   })),
 );
+
+const standaloneItems = standaloneDownloads.map((dl) => ({
+  ...dl,
+  postId: undefined as string | undefined,
+  postTitle: undefined as string | undefined,
+}));
+
+const allDownloads = [...postDownloads, ...standaloneItems];
 
 const downloadsSchema = {
   '@context': 'https://schema.org',
@@ -35,11 +44,13 @@ const downloadsSchema = {
         contentUrl: dl.url,
         encodingFormat: 'model/stl',
         isAccessibleForFree: true,
-        isPartOf: {
-          '@type': 'Article',
-          name: dl.postTitle,
-          url: `https://warspoon.com/workshop/${dl.postId}/`,
-        },
+        ...(dl.postId && {
+          isPartOf: {
+            '@type': 'Article',
+            name: dl.postTitle,
+            url: `https://warspoon.com/workshop/${dl.postId}/`,
+          },
+        }),
       },
     })),
   },
@@ -56,25 +67,40 @@ const downloadsSchema = {
     <p class="text-(--color-text-secondary)">No downloads available yet.</p>
   ) : (
     <div class="grid gap-4 sm:grid-cols-2">
-      {allDownloads.map(({ label, url, host, postTitle, postId, cover, coverAlt }) => (
+      {allDownloads.map((dl) => (
         <div class="overflow-hidden rounded-lg border border-(--color-border)">
-          {cover && (
-            <a href={`/workshop/${postId}/`} class="block group">
+          {dl.cover && (
+            dl.postId ? (
+              <a href={`/workshop/${dl.postId}/`} class="block group">
+                <Image
+                  src={dl.cover}
+                  alt={dl.coverAlt || dl.postTitle || dl.label}
+                  widths={[400, 800]}
+                  sizes="(max-width: 640px) 100vw, 50vw"
+                  class="w-full aspect-video object-cover transition-transform group-hover:scale-105"
+                  loading="lazy"
+                />
+              </a>
+            ) : (
               <Image
-                src={cover}
-                alt={coverAlt || postTitle}
+                src={dl.cover}
+                alt={dl.coverAlt || dl.label}
                 widths={[400, 800]}
                 sizes="(max-width: 640px) 100vw, 50vw"
-                class="w-full aspect-video object-cover transition-transform group-hover:scale-105"
+                class="w-full aspect-video object-cover"
                 loading="lazy"
               />
-            </a>
+            )
           )}
           <div class="p-4">
-            <DownloadCard label={label} url={url} host={host} />
-            <p class="mt-1 text-xs text-(--color-text-secondary)">
-              From: <a href={`/workshop/${postId}/`} class="hover:text-(--color-accent) transition-colors">{postTitle}</a>
-            </p>
+            <DownloadCard label={dl.label} url={dl.url} host={dl.host} />
+            {dl.postId ? (
+              <p class="mt-1 text-xs text-(--color-text-secondary)">
+                From: <a href={`/workshop/${dl.postId}/`} class="hover:text-(--color-accent) transition-colors">{dl.postTitle}</a>
+              </p>
+            ) : ('description' in dl && dl.description && (
+              <p class="mt-1 text-xs text-(--color-text-secondary)">{dl.description}</p>
+            ))}
           </div>
         </div>
       ))}

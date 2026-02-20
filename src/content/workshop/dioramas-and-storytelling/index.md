@@ -1,5 +1,5 @@
 ---
-title: "Telling Stories With Miniatures | Grimdark Dioramas and Beyond"
+title: "Telling Stories With Grimdark Dioramas & Minis "
 description: "How I approach narrative miniature building. From a Helsreach diorama to a space marine flipping off tyranids to a Krieg artillery crew caught napping. Storytelling at every scale."
 date: 2026-02-17
 tags: ["showcase", "terrain"]

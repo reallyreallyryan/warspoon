@@ -1,7 +1,7 @@
 ---
-title: "Painted Christmas Miniature Bases — Set 1"
+title: "Painted Christmas Miniature Bases for Wargaming | Set 1"
 description: "The Christmas themed miniature bases from Set 1, printed and painted up in traditional holiday colors. Speed paints over white primer — fast, festive, done."
-date: 2026-04-02
+date: 2026-03-15
 tags: ["bases", "3d-printing", "showcase", "download"]
 images:
   - src: "./painted-full-set.webp"
@@ -28,7 +28,7 @@ I posted the [STL files for these bases](/workshop/christmas-bases/) a while bac
 
 ## The Paint Job
 
-Nothing fancy. White primer, speed paints, traditional Christmas colors. Red and green on the presents and candy canes, gold on ribbons and trim, brown on the logs. These are small bases with simple shapes — speed paints do exactly what you need them to in one coat with no fuss.
+Nothing fancy. White primer, speed paints, traditional Christmas colors. Red and green on the presents and candy canes, gold on ribbons and trim, brown on the logs. These are small bases with simple shapes and speed paints do exactly what you need them to in one coat with no fuss.
 
 The whole set took maybe an hour start to finish. Prime, let dry, paint, done. That's the kind of low-effort, high-payoff project that's perfect for when you want to feel productive at the hobby desk without committing to a full evening.
 
@@ -50,7 +50,7 @@ This one's the most fun to paint. Red and green gift wrap, gold ribbon, red and 
 
 ![Four painted present boxes miniature base in alternating red and green wrapping](./painted-four-presents.webp)
 
-Four boxes, four chances to mix up your wrapping paper colors. Alternate your reds and greens so no two adjacent presents match — gives it that pile-of-gifts-under-the-tree look.
+Four boxes, four chances to mix up your wrapping paper colors. Alternate your reds and greens so no two adjacent presents match. This helps gives it that pile-of-gifts-under-the-tree look.
 
 **Base 4 — Logs, Present, and Sign**
 
@@ -62,7 +62,7 @@ The sign is a nice detail here. A bit of white or cream on the sign face, brown 
 
 ![Standing candy cane with presents miniature base painted in red and white stripes](./painted-candycanestanding-presents.webp)
 
-The vertical candy cane catches the eye. Red and white stripes are the only part that requires a steady hand — everything else is just filling in shapes.
+The vertical candy cane catches the eye. Red and white stripes are the only part that requires a steady hand with everything else being just filling in shapes.
 
 ## With a Mini
 
@@ -78,4 +78,4 @@ The STLs are free on MakerWorld. Print settings and design details are in the [o
 
 ---
 
-*Set 2 is in the works with more designs. If you paint these up in something other than traditional Christmas colors, I want to see it — grimdark gingerbread, Nurgle Christmas, whatever you come up with.*
+*Set 2 is in the works with more designs. If you paint these up in something other than traditional Christmas colors, I want to see it. Grimdark gingerbread, Nurgle Christmas, whatever you come up with be sure to share.*

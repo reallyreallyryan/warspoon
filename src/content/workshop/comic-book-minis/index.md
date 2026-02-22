@@ -47,7 +47,7 @@ That's basically it. Black lines define the shapes. Hard highlights sell the lig
 
 A Horus Heresy character done in the full comic book treatment. The yellow Imperial Fists armor is a great fit for this style and really makes the colors pop. The shield especially is where the style shines, all those straight edges with clean black lines between them.
 
-Yellow is also notoriously annoying to paint traditionally (thin coats, multiple layers, streaking). Same happened here. It only took 7 coats. I've seen things about using a hot pink as the initial layer, but I haven't tried this yet. In comic book style you just commit to the color and that's what I did here. 
+Yellow is also notoriously annoying to paint traditionally (thin coats, multiple layers, streaking). Same happened here. It only took **7 coats**. I've seen things about using a hot pink as the initial layer, but I haven't tried this yet. In comic book style you just commit to the color and that's what I did here. 
 
 The base deserves a mention too! I did a simple blue with yellow lightning bolts painted right on, keeping the whole thing in that comic book flat-color energy. No texture paste, no extras, just bold shapes and color.
 

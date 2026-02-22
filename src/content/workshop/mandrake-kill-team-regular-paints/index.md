@@ -1,11 +1,29 @@
 ---
 title: "Mandrake Kill Team — Comic Book Style (First 5)"
 description: "The first 5 Mandrakes from my Kill Team painted in comic book style with regular paints and Higgins Black Magic ink. Paint recipes, lessons learned, and the start of an experiment."
-date: 2026-04-02
+date: 2026-02-29
 tags: ["kill-team", "showcase", "recipe", "comic-book", "mandrakes"]
-# images:
-#   - src: "./images/mandrakes-group.jpg"
-#     alt: "Five Mandrakes painted in comic book style with bold black lining"
+cover: ./mandrake-hero-blog-image.webp
+coverAlt: "Five Mandrakes painted in comic book style with bold black lining"
+images:
+  - src: ./mandrake-hero-blog-image.webp
+    alt: "Five Mandrakes painted in comic book style with bold black lining"
+  - src: ./mandrake-group-frontview.webp
+    alt: "Front view of all five Mandrakes showing the color variety across the team"
+  - src: ./mandrake-group-rearview.webp
+    alt: "Rear view of all five Mandrakes showing shadow gradient bases and back details"
+  - src: ./mandrake-old-hair-vs-new-hair.webp
+    alt: "Side-by-side comparison of darker original hair vs brighter reworked hair"
+  - src: ./mandrake-blue-back-orange-flame.webp
+    alt: "Mandrake with blue skin patches and orange flame effects"
+  - src: ./mandrake-green-back-blue-flames.webp
+    alt: "Mandrake with green skin patches and blue flame effects"
+  - src: ./mandrake-red-back-green-flames.webp
+    alt: "Mandrake with red skin patches and green flame effects"
+  - src: ./mandrake-white-back-pink-flame.webp
+    alt: "Mandrake with white skin patches and pink flame effects"
+  - src: ./mandrake-yellow-back-purple-shadow.webp
+    alt: "Mandrake with yellow skin patches and purple shadow effects"
 draft: true
 ---
 
@@ -13,7 +31,7 @@ I set a goal over a year ago: paint an entire Kill Team in [comic book style](/w
 
 This post covers the first five. The second five are getting a different approach — speed paints instead of regular paints — so consider this the baseline half of an experiment.
 
-<!-- TODO: Hero shot — all 5 Mandrakes together -->
+![Five Mandrakes painted in comic book style](./mandrake-hero-blog-image.webp)
 
 ## Why Mandrakes
 
@@ -23,7 +41,15 @@ That last part matters for the paint scheme. All those patches of stitched skin 
 
 The shadow angle also inspired the basing. More on that below.
 
-<!-- TODO: Individual model shots showing different skin patch colors -->
+![Mandrake with blue skin patches and orange flame effects](./mandrake-blue-back-orange-flame.webp)
+
+![Mandrake with green skin patches and blue flame effects](./mandrake-green-back-blue-flames.webp)
+
+![Mandrake with red skin patches and green flame effects](./mandrake-red-back-green-flames.webp)
+
+![Mandrake with white skin patches and pink flame effects](./mandrake-white-back-pink-flame.webp)
+
+![Mandrake with yellow skin patches and purple shadow effects](./mandrake-yellow-back-purple-shadow.webp)
 
 ## The Process
 
@@ -55,7 +81,9 @@ Here's what I used across the first five:
 
 **Black Linework:** Higgins Black Magic ink. Regular black paint isn't dark enough. The ink gives you a deep, saturated true black that really sells the drawn look. I use a fine brush and just work my way around every edge on the model.
 
-<!-- TODO: Close-up detail shots of linework on weapons and flames -->
+![Close-up of red Mandrake showing green flame linework detail](./mandrake-red-back-green-flames.webp)
+
+![Close-up of blue Mandrake showing orange flame linework detail](./mandrake-blue-back-orange-flame.webp)
 
 ## The Black Lines
 
@@ -69,7 +97,7 @@ A few things I learned:
 
 **Brighter base colors.** This was the biggest lesson from model one to model two. The black lines eat up visual brightness, so your underlying colors need to be cranked up to compensate. I made the hair much brighter on the second model and the difference was immediately obvious. The first model still has the original darker hair — you can compare them side by side.
 
-<!-- TODO: Side-by-side comparison of model 1 (original darker hair) vs model 2 (brighter hair) -->
+![Comparison of darker vs brighter hair](./mandrake-old-hair-vs-new-hair.webp)
 
 **Fixing mistakes.** When a line goes bad — usually way too thick — I layer Dead White over the mistake area until it's covered, then redo the color underneath, then redo the line. It's basically a local reset. It's tedious but the alternative is living with a thick blob that breaks the comic illusion.
 
@@ -83,13 +111,15 @@ I wanted the bases to look like the Mandrakes are emerging from shadows — step
 
 They turned out okay. I'm not sure they completely capture the shadow-emergence effect I was going for, but as a group they work well enough. Having five slightly different approaches means I can look at them together and decide which ratio to use as the template for the next five.
 
-<!-- TODO: Base detail shots showing the shadow gradient effect -->
+![Group rear view showing shadow gradient bases](./mandrake-group-rearview.webp)
 
 ## Each Model Has Its Own Color Story
 
 I gave each Mandrake a different color palette for two reasons. First, I get bored easy and like to switch it up — no point pretending there's a deep lore reason when the real answer is I wanted to try something different on each one. Second, it's practical: in Kill Team you need to quickly tell individual operatives apart during a game. Different flame colors and skin patch palettes make that instant.
 
-<!-- TODO: All 5 models showing the color variety across the team -->
+![Front view of all five Mandrakes showing color variety](./mandrake-group-frontview.webp)
+
+![Rear view of all five Mandrakes showing back details](./mandrake-group-rearview.webp)
 
 ## What's Next
 
@@ -101,7 +131,7 @@ When all ten are done, I'll put them side by side and we can see which approach 
 
 I haven't gotten this team on the table for a game yet, but there's no rush. I'm more excited to see the full squad come together than I am to play them. Only five more to go.
 
-<!-- TODO: Final glamour shot to close out the post -->
+![The first five Mandrakes complete](./mandrake-group-frontview.webp)
 
 ---
 

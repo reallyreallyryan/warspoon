@@ -72,7 +72,7 @@ Only two changes from the default profile: first layer temperature bumped to 225
 
 **[Download on MakerWorld](https://makerworld.com/en/models/2356375-christmas-themed-28mm-bases-5-pack#profileId-2577641)** All 5 bases as STL files.
 
-Christmas Base Set 2 is in the works with more designs including a melted snowman base. I'll link it here when it's ready.
+The second set of [Christmas Themed Wargaming Bases](https://makerworld.com/en/models/2434495-christmas-themed-war-gaming-bases-28mm-set-2#profileId-2670826) is also now available with more designs including a melted snowman base, snowball piles, and a santa sack. Check them out!
 
 ---
 

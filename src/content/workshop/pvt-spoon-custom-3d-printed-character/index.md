@@ -1,7 +1,7 @@
 ---
 title: "Pvt. Spoon — A Custom 3D Printed Character From Scratch"
 description: "Meet Pvt. Spoon. A sentient spoon with no arms, no legs, and no business being on a battlefield. Designed in Blender, printed on FDM, and ready to do absolutely nothing in both Warhammer 40K and Kill Team."
-date: 2026-02-20
+date: 2026-05-01
 tags: ["3d-printing", "kill-team", "showcase"]
 draft: true
 ---

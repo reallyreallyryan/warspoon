@@ -1,7 +1,7 @@
 ---
 title: "Painting Chaos War Dogs in Grimdark Disguise | The Borrowed"
 description: "Two Dreadblade War Dogs painted to look like bad Imperial imposters. Meet The Borrowed, a mercenary Chaos Knights groupd that gets close to the enemy by pretending to be on their side."
-date: 2026-04-015
+date: 2026-04-15
 tags: ["showcase", "story", "the-borrowed", "death-guard"]
 images:
   - src: ./war-dogs-main.webp

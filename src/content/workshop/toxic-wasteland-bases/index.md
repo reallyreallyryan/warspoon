@@ -47,7 +47,7 @@ Nothing exotic.
 
 Get your base textured with whatever ground material you normally use. I used textured terrain paint and reminants already on my bases from the previous scheme. Paint it dark! A mix of dark brown and dark green so it reads as dead, poisoned earth rather than healthy dirt. Let it fully cure. This of this as the base layer, the deepest, darkest layer.
 
-### Step 2:a The Toxic Puddles
+### Step 2: The Toxic Puddles
 
 This is the whole trick. Mix your lighter toxic green paint directly into the basing glue and/or water texture. You want it opaque enough to read as slime but still fluid enough to spread when a model presses into it. What I did was take a little bit of water on my brush and watered the paint down. I then used these watery-paint streaks to add to my mix. Light enough so it reads as a green liquid, not green paint. 
 

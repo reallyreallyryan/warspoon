@@ -4,6 +4,11 @@ description: "Meet Pvt. Spoon. A sentient spoon with no arms, no legs, and no bu
 date: 2026-05-01
 tags: ["3d-printing", "kill-team", "showcase"]
 draft: true
+cover: ./pvt-spoon-day-1-painted-and-based.webp
+coverAlt: "Pvt. Spoon custom 3D printed miniature painted and based"
+images:
+  - src: ./pvt-spoon-day-1-painted-and-based.webp
+    alt: "Pvt. Spoon custom 3D printed miniature painted and based"
 ---
 
 ## The Idea

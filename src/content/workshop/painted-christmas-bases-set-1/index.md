@@ -1,5 +1,5 @@
 ---
-title: "Painted Christmas Miniature Bases for Wargaming | Set 1"
+title: "Painted Christmas Miniature Bases for Wargaming | Set of 5"
 description: "The Christmas themed miniature bases from Set 1, printed and painted up in traditional holiday colors. Speed paints over white primer — fast, festive, done."
 date: 2026-03-15
 tags: ["bases", "3d-printing", "showcase", "download"]

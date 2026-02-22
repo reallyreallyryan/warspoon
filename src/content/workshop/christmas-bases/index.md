@@ -76,4 +76,4 @@ Christmas Base Set 2 is in the works with more designs including a melted snowma
 
 ---
 
-*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out, especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it. What about giving them a [toxic wasteland base](/workshop/toxic-wasteland-bases/) treatment? There's always the option for a [comic book themed mini](/workshop/comic-book-minis/)as well.*
+*These were my first Blender-to-printer designs. If you print them, I'd love to see how they turn out, especially if you paint them in something other than traditional Christmas colors. Grimdark Christmas bases? Go for it. What about giving them a [toxic wasteland base](/workshop/toxic-wasteland-bases/) treatment? There's always the option for a [comic book themed mini](/workshop/comic-book-minis/) as well.*

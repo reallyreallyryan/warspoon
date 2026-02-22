@@ -1,6 +1,6 @@
 ---
 title: "Death Guard Toxic Wasteland Bases"
-description: "How I made toxic wasteland bases for my Death Guard using basing glue mixed with paint. Dark earth with sickly green puddles — a simple technique that looks disgusting in the best way."
+description: "How I made toxic wasteland bases for my Death Guard using basing glue mixed with paint. Dark earth with sickly green puddles for a simple technique that looks disgusting in the best way."
 date: 2026-01-05
 tags: ["death-guard", "bases", "recipe", "showcase"]
 cover: ./cover.webp
@@ -28,6 +28,8 @@ I wanted something that felt like a toxic wasteland without getting complicated.
 ## The Concept
 
 The idea isn't that these marines are walking through a pre-existing swamp. The corruption is spreading FROM them into the ground. Wherever they step, the earth turns toxic. That distinction matters because it changes how you place the gross stuff. A more concentrated sickly green around and under the feet, spreading outward, not evenly distributed.
+
+This technique isn't limited to Death Guard either. You can even decide to build this same toxic corruption across a set of [Christmas themed bases](/workshop/christmas-bases/) for a Nurgle-meets-holiday mashup.
 
 ## What You Need
 
@@ -81,7 +83,7 @@ I want to go back and build up another layer on top of the Plague Marine bases t
 
 Some of the basing glue spilled over the rims of the bases. It dripped down the sides in a few spots. My first instinct was to clean it up, but I left it and I'm happy I did. It looks like the plague is so toxic it can't be contained within the base. The corruption is literally oozing off the edge.
 
-Could I have done it more intentionally and made it look cleaner? Absolutely. But the effect works, and sometimes the best results come from committing to an accident instead of fighting it.
+Could I have done it more intentionally and made it look cleaner? Absolutely. But the effect works, and sometimes the best results come from committing to an accident instead of fighting it. 
 
 ![Top-down close-up of a Death Guard base showing layered toxic green sludge texture](./groupshot.webp)
 <!-- TODO: Side view showing rim/spill effect -->

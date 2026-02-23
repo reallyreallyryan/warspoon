@@ -13,6 +13,7 @@ export async function GET(context: APIContext) {
     `- [Gallery](${site}/gallery/): Photos of painted miniatures, terrain, and hobby projects`,
     `- [Downloads](${site}/downloads/): Free STL files for 3D printing terrain and accessories`,
     `- [About](${site}/about/): About Warspoon and the hobbyist behind it`,
+    `- [FAQ](${site}/faq/): Answers to common miniature painting, basing, and 3D printing questions`,
   ];
 
   const workshopPosts = posts.map(

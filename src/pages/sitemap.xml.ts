@@ -6,7 +6,7 @@ export async function GET(context: APIContext) {
   const posts = (await getCollection('workshop', ({ data }) => !data.draft))
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-  const staticPages = ['/', '/about/', '/gallery/', '/downloads/', '/workshop/'];
+  const staticPages = ['/', '/about/', '/gallery/', '/downloads/', '/workshop/', '/faq/'];
 
   const urls = [
     ...staticPages.map((path) => `  <url><loc>${site}${path}</loc></url>`),

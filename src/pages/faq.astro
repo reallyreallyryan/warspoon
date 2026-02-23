@@ -1,0 +1,158 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import JsonLd from '../components/JsonLd.astro';
+
+const faqData = [
+  {
+    question: 'How do you prime miniatures for Speed Paints?',
+    answer: 'Two coats of flat white primer. Speed Paints are translucent, so the whiter the surface, the more the colors pop. I usually go a step further and paint the model with a dead white on top of the primer to get as bright a base as possible before any Speed Paint goes on.',
+  },
+  {
+    question: 'How do you do comic book style painting on miniatures?',
+    answer: "There are a couple approaches. The first is painting your main color, a highlight, and a lowlight, then adding bold black lines between sections and white spot highlights. The second is painting the model normally and then going back with thick black lines on any edge where two different areas meet — basically inking it the way a comic artist would. Both work. The black lines do most of the heavy lifting either way.",
+  },
+  {
+    question: 'How do you apply water transfers to miniatures?',
+    answer: "Get both the miniature surface and the transfer wet. Trim off as much excess clear film around the image as you can. Slide the transfer onto an exacto knife or sharp tool, position it on the wet surface of the mini, and gently pat dry with a paper towel. The water lets you reposition before it sets.",
+  },
+  {
+    question: 'Do you need an airbrush to paint miniatures?',
+    answer: "No. I don't own one and I'm happy with how my work turns out. If anything, I think learning brush techniques first gives you a stronger foundation. Add tools later if you want, but they're not a requirement for good results.",
+  },
+  {
+    question: 'How do you paint snow on miniature bases?',
+    answer: "I started with snow texture paste and honestly still use it — but there's more to making snow look right than white stuff on a base. The trick is blue. I build up blue washes and blue dry brushing to create that icy, cold feeling before any white goes on. Layer that with white dry brushing and painting to create depth — darker blues read as colder, so you can control the mood. Once the layered foundation actually feels like winter, then I go in with texture paste to add volume and that final snow effect on top.",
+  },
+  {
+    question: 'Can you 3D print miniature bases with a 0.2mm nozzle?',
+    answer: "Yes — I print all my custom bases with a 0.2mm nozzle on a Bambu A1 Mini and they turn out great. The smaller nozzle picks up way more detail than a standard 0.4mm, which matters on something as small as a 25mm or 32mm base. I've even printed full miniatures with it that came out really clean.",
+  },
+  {
+    question: 'Can you print usable miniature terrain on a budget FDM printer?',
+    answer: "Depends what you mean by budget, but I print everything on a Bambu A1 Mini and the terrain comes out great. Trenches, bunkers, tokens, bases, full miniatures — it handles all of it. The one limitation is detailed miniature characters. For rank-and-file troops and terrain it's more than capable, but if you want crisp faces and tiny weapon details, that's where resin printers earn their keep.",
+  },
+  {
+    question: 'How do you tell your models apart during Kill Team games?',
+    answer: "Paint one element in a unique color per model. My Mandrakes all have different fire colors — it's a built-in visual ID that also looks cool on the table. For my Night Lords Kill Team, I went a different route and 3D printed custom nameplates for each model's base. Both approaches work. The key is picking something consistent across the squad so you're not squinting at subtle differences mid-game.",
+  },
+  {
+    question: 'How do you build army lore through gameplay instead of writing it all upfront?',
+    answer: "Start small. The minimum you need is a unit name, your starting roster, and names for your leader and characters. For the backstory, just pick a believable origin point for that faction — my Krieg army is a newly minted siege regiment where every single member is a cherry who hasn't seen combat yet. That's it. That's the whole starting lore. From there, everything builds through actual games. Officer stories come from in-game achievements, memorable moments, and failures. It feels way more earned than writing a ten-page backstory before your first roll.",
+  },
+  {
+    question: 'How do you stay motivated when a project takes forever?',
+    answer: "Remember what this is. It's your hobby. Your fun. Your \"take a breath, build something cool, and live in another world for a bit\" hobby. If a project is dragging, just let it sit. My Mandrake Kill Team has five models fully painted, one sort of done, and four still in the box. It's been 18 months. And that's fine. The passion comes back, or you get inspired to do something even cooler. Either way, guilt has no place at the hobby desk.",
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: answer,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="Miniature Painting & Hobby FAQ"
+  description="Real answers to common miniature painting, basing, and 3D printing questions — from someone who figured it out the hard way."
+>
+  <JsonLd schema={faqSchema} />
+
+  <article class="prose prose-lg max-w-none">
+    <h1>Hobby FAQ</h1>
+    <p>
+      Real answers from the hobby desk. No theory, no "it depends" cop-outs — just what's worked (and what hasn't) from actually building, painting, and printing.
+    </p>
+    <p><em>Have a question? Reach out and it might end up here.</em></p>
+
+    <h2>Painting</h2>
+
+    <details class="faq-item">
+      <summary><h3>How do you prime miniatures for Speed Paints?</h3></summary>
+      <div>
+        <p>Two coats of flat white primer. Speed Paints are translucent, so the whiter the surface, the more the colors pop. I usually go a step further and paint the model with a dead white on top of the primer to get as bright a base as possible before any Speed Paint goes on.</p>
+      </div>
+    </details>
+
+    <details class="faq-item">
+      <summary><h3>How do you do comic book style painting on miniatures?</h3></summary>
+      <div>
+        <p>There are a couple approaches. The first is painting your main color, a highlight, and a lowlight, then adding bold black lines between sections and white spot highlights. The second is painting the model normally and then going back with thick black lines on any edge where two different areas meet — basically inking it the way a comic artist would. Both work. The black lines do most of the heavy lifting either way.</p>
+        <p>I did a full write-up on <a href="/workshop/comic-book-minis/">comic book style minis</a> if you want to see how it looks in practice.</p>
+      </div>
+    </details>
+
+    <details class="faq-item">
+      <summary><h3>How do you apply water transfers to miniatures?</h3></summary>
+      <div>
+        <p>Get both the miniature surface and the transfer wet. Trim off as much excess clear film around the image as you can. Slide the transfer onto an exacto knife or sharp tool, position it on the wet surface of the mini, and gently pat dry with a paper towel. The water lets you reposition before it sets.</p>
+      </div>
+    </details>
+
+    <details class="faq-item">
+      <summary><h3>Do you need an airbrush to paint miniatures?</h3></summary>
+      <div>
+        <p>No. I don't own one and I'm happy with how my work turns out. If anything, I think learning brush techniques first gives you a stronger foundation. Add tools later if you want, but they're not a requirement for good results.</p>
+      </div>
+    </details>
+
+    <h2>Basing</h2>
+
+    <details class="faq-item">
+      <summary><h3>How do you paint snow on miniature bases?</h3></summary>
+      <div>
+        <p>I started with snow texture paste and honestly still use it — but there's more to making snow look right than white stuff on a base. The trick is blue. I build up blue washes and blue dry brushing to create that icy, cold feeling before any white goes on. Layer that with white dry brushing and painting to create depth — darker blues read as colder, so you can control the mood. Once the layered foundation actually feels like winter, then I go in with texture paste to add volume and that final snow effect on top.</p>
+      </div>
+    </details>
+
+    <h2>3D Printing</h2>
+
+    <details class="faq-item">
+      <summary><h3>Can you 3D print miniature bases with a 0.2mm nozzle?</h3></summary>
+      <div>
+        <p>Yes — I print all my <a href="/workshop/christmas-bases/">custom bases</a> with a 0.2mm nozzle on a Bambu A1 Mini and they turn out great. The smaller nozzle picks up way more detail than a standard 0.4mm, which matters on something as small as a 25mm or 32mm base. I've even printed full miniatures with it that came out really clean.</p>
+        <p>I share the STL files for free on the <a href="/downloads/">downloads page</a>.</p>
+      </div>
+    </details>
+
+    <details class="faq-item">
+      <summary><h3>Can you print usable miniature terrain on a budget FDM printer?</h3></summary>
+      <div>
+        <p>Depends what you mean by budget, but I print everything on a Bambu A1 Mini and the terrain comes out great. Trenches, bunkers, tokens, bases, full miniatures — it handles all of it. The one limitation is detailed miniature characters. For rank-and-file troops and terrain it's more than capable, but if you want crisp faces and tiny weapon details, that's where resin printers earn their keep.</p>
+      </div>
+    </details>
+
+    <h2>Kill Team & Crusade</h2>
+
+    <details class="faq-item">
+      <summary><h3>How do you tell your models apart during Kill Team games?</h3></summary>
+      <div>
+        <p>Paint one element in a unique color per model. My <a href="/workshop/mandrake-kill-team-regular-paints/">Mandrakes</a> all have different fire colors — it's a built-in visual ID that also looks cool on the table. For my Night Lords Kill Team, I went a different route and 3D printed custom nameplates for each model's base. Both approaches work. The key is picking something consistent across the squad so you're not squinting at subtle differences mid-game.</p>
+      </div>
+    </details>
+
+    <details class="faq-item">
+      <summary><h3>How do you build army lore through gameplay instead of writing it all upfront?</h3></summary>
+      <div>
+        <p>Start small. The minimum you need is a unit name, your starting roster, and names for your leader and characters. For the backstory, just pick a believable origin point for that faction — my Krieg army is a newly minted siege regiment where every single member is a cherry who hasn't seen combat yet. That's it. That's the whole starting lore. From there, everything builds through actual games. Officer stories come from in-game achievements, memorable moments, and failures. It feels way more earned than writing a ten-page backstory before your first roll.</p>
+        <p>You can see this in action with <a href="/workshop/the-borrowed-war-dogs/">The Borrowed</a> — a War Dogs detachment whose story grew entirely through Crusade games.</p>
+      </div>
+    </details>
+
+    <h2>General Hobby</h2>
+
+    <details class="faq-item">
+      <summary><h3>How do you stay motivated when a project takes forever?</h3></summary>
+      <div>
+        <p>Remember what this is. It's your hobby. Your fun. Your "take a breath, build something cool, and live in another world for a bit" hobby. If a project is dragging, just let it sit. My Mandrake Kill Team has five models fully painted, one sort of done, and four still in the box. It's been 18 months. And that's fine. The passion comes back, or you get inspired to do something even cooler. Either way, guilt has no place at the hobby desk.</p>
+      </div>
+    </details>
+  </article>
+</BaseLayout>

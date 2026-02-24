@@ -10,6 +10,8 @@ images:
     alt: "Borrower of Grudges War Dog posing in false Imperial paint scheme"
   - src: ./war-dog-debts-side.webp
     alt: "Borrower of Debts War Dog side view showing hasty Imperial disguise"
+cover: ./chaos-war-dog-hero-image.webp
+coverAlt: "Chaos War Dog in false Imperial colors stamped with a Heretic seal of disapproval"
 draft: true
 ---
 

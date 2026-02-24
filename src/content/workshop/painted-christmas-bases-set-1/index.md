@@ -18,7 +18,7 @@ images:
     alt: "Standing candy cane with presents miniature base painted in red and white stripes"
   - src: "./space-dwarf-candycane-mini.webp"
     alt: "Kitbashed space dwarf dual wielding 3D printed candy canes on a melted snowman base"
-cover: "./painted-full-set.webp"
+cover: "./full-set-painted-in-snow.webp"
 draft: true
 ---
 

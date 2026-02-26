@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import logo from '../assets/apple-touch-icon.png';
 import Nav from './Nav.astro';
 import MobileMenu from './MobileMenu.astro';
 import { SITE_TITLE } from '../consts';
@@ -7,7 +9,7 @@ import { SITE_TITLE } from '../consts';
 <header class="sticky top-0 z-40 border-b border-(--color-surface-700) bg-(--color-surface-900)/95 backdrop-blur-sm">
   <div class="mx-auto max-w-5xl flex items-center justify-between px-4 py-4">
     <a href="/" class="flex items-center gap-2 font-heading uppercase text-lg font-bold tracking-tight text-(--color-text-primary) hover:text-(--color-accent) transition-colors">
-      <img src="/apple-touch-icon.png" alt="Warspoon logo" width="36" height="36" class="rounded" />
+      <Image src={logo} alt="Warspoon logo" width={36} height={36} class="rounded" />
       {SITE_TITLE}
     </a>
     <Nav />

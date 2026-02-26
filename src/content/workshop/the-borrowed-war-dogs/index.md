@@ -1,7 +1,7 @@
 ---
 title: "Painting Chaos War Dogs in Grimdark Disguise | The Borrowed"
-description: "Two Dreadblade War Dogs painted to look like bad Imperial imposters. Meet The Borrowed, a mercenary Chaos Knights groupd that gets close to the enemy by pretending to be on their side."
-date: 2026-04-02
+description: "Two Dreadblade War Dogs painted to look like bad Imperial imposters. Meet The Borrowed, a mercenary Chaos Knights group that gets close to the enemy by pretending to be on their side."
+date: 2026-02-26
 tags: ["showcase", "story", "the-borrowed", "death-guard"]
 images:
   - src: ./war-dogs-main.webp
@@ -12,7 +12,7 @@ images:
     alt: "Borrower of Debts War Dog side view showing hasty Imperial disguise"
 cover: ./chaos-war-dog-hero-image.webp
 coverAlt: "Chaos War Dog in false Imperial colors stamped with a Heretic seal of disapproval"
-draft: true
+draft: false
 ---
 
 The Death Guard hit the Krieg's trench line and bounced. Hard. A small patrol probing for weak points in the 508th Siege Regiment's defenses, and the Krieg didn't just hold, they made the Death Guard pay for the attempt dearly.
@@ -25,7 +25,7 @@ Meet The Borrowed.
 
 ## Who Are The Borrowed
 
-The Borrowed are [Dreadblades](https://wh40k.lexicanum.com/wiki/War_Dog) — War Dogs that have broken free from any Knight House allegiance and work as mercenary muscle. Think of them as a chaos-flavored PMC. You've got a problem you can't solve with infantry? You hire The Borrowed. They show up, they break things, they collect whatever passes for payment in the warp, and they move on to the next job.
+The Borrowed are [Dreadblades](https://wh40k.lexicanum.com/wiki/War_Dog). These are War Dogs that have broken free from any Knight House allegiance and work as mercenary muscle. Think of them as a chaos-flavored PMC. You've got a problem? Yo, they'll solve it. They show up, they break things, they collect whatever passes for payment in the warp, and they move on to the next job.
 
 The name fits how they operate. They're never yours. You don't own them, you don't command them, you don't trust them. You borrow them for as long as the arrangement holds, and you hope they don't decide you're more interesting as a target than a client.
 
@@ -47,11 +47,11 @@ Painting them this way was so freaking fun. Instead of trying to nail a perfect 
 
 ## On the Table
 
-In the campaign, The Borrowed deployed on the opposite side of the board from the Death Guard main force. The Krieg were dug in facing the plague marines when two "Imperial Knights" appeared on their flank. By the time anyone realized what was happening, it was too late.
+In the campaign, The Borrowed deployed on the side of the Death Guard. The Krieg were dug in facing the expected plague marines attack when two "Imperial Knights" appeared on their flank. By the time anyone realized what was happening, it was too late.
 
 That's the gameplay outcome, a pincer movement where the real threat isn't the rotting horde walking toward you. It's the "friendly" war machines that just turned their guns on your [krieg artillery crew](/workshop/dioramas-and-storytelling/). Those poor Korpsmen of the 508th never saw the betrayal coming.
 
-The two War Dogs play as a fast, aggressive element alongside the grinding attrition of the Death Guard. The Death Guard tie you down. The Borrowed break you. Different armies, different roles, same side of the table.
+The two War Dogs play as a fast, aggressive element opposite the grinding attrition of the Death Guard. The Death Guard tie you down. The Borrowed break you. Different armies, different roles, same 'team' on the table.
 
 ## The Build
 
@@ -71,4 +71,4 @@ That's the beauty of narrative Crusade play. I don't know what happens next beca
 
 ---
 
-*The Borrowed are part of an ongoing Crusade campaign between my [Death Guard](/workshop/death-guard-paint-scheme/) and the 508th Siege Regiment. The first mission saw the Death Guard probe the Krieg trench line and fail, which is how The Borrowed got the call.*
+*The Borrowed are part of an ongoing Crusade campaign between my [Death Guard](/workshop/death-guard-paint-scheme/) and the 508th Siege Regiment. The first mission saw the Death Guard probing the Krieg trench line, which is how The Borrowed got the call.*

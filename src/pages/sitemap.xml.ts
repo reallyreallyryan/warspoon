@@ -12,7 +12,7 @@ export async function GET(context: APIContext) {
     ...staticPages.map((path) => `  <url><loc>${site}${path}</loc></url>`),
     ...posts.map(
       (post) =>
-        `  <url><loc>${site}/workshop/${post.id}/</loc><lastmod>${post.data.date.toISOString().slice(0, 10)}</lastmod></url>`,
+        `  <url><loc>${site}/workshop/${post.id}/</loc><lastmod>${(post.data.lastModified ?? post.data.date).toISOString().slice(0, 10)}</lastmod></url>`,
     ),
   ];
 

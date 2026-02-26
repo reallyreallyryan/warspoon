@@ -2,12 +2,13 @@
 title: "Telling Stories With Grimdark Dioramas & Minis "
 description: "How I approach narrative miniature building. From a Helsreach diorama to a space marine flipping off tyranids to a Krieg artillery crew caught napping. Storytelling at every scale."
 date: 2026-02-17
+lastModified: 2026-02-26
 tags: ["showcase", "terrain"]
 cover: ./cover.webp
-coverAlt: "Deathwatch space marine diorama from the rear — a lone marine with rocket launcher faces down a swarm of tyranids pouring over a bulkhead"
+coverAlt: "Deathwatch space marine diorama wide shot — a lone marine fires a rocket launcher at point-blank range into tyranids pouring over a bulkhead, with GET Some text overlay"
 images:
   - src: ./cover.webp
-    alt: "Deathwatch space marine diorama from the rear — a lone marine with rocket launcher faces down a swarm of tyranids pouring over a bulkhead"
+    alt: "Deathwatch space marine diorama wide shot — a lone marine fires a rocket launcher at point-blank range into tyranids pouring over a bulkhead, with GET Some text overlay"
   - src: ./helsreach-diorama-finished-main.webp
     alt: "Completed Helsreach diorama showing Grimaldus on a ruined cathedral altar choking an ork"
   - src: ./helsreach-diorama-finished-side.webp
@@ -83,7 +84,9 @@ This one isn't a traditional diorama on a display base. It's the Krieg artillery
 
 The gun crew is in position, mud everywhere, toxic puddles pooling around the base. Water transfers add some fun details to the big gun. And then there's the soldier who's fallen asleep on the job. Shame. And the other crew member who's caught him doing it.
 
-The sleeping soldier getting scorned turns a standard artillery piece into a scene. You can hear the argument. You can imagine what happens next. It's a tiny piece of military life that makes the whole unit feel like real people instead of identical guardsmen pointing guns at things. I also find the irony of sleeping next to artillery and being told to 'shush' funny.
+The sleeping soldier getting scorned turns a standard artillery piece into a scene. You can hear the argument. You can imagine what happens next. It's a tiny piece of military life that makes the whole unit feel like real people instead of identical guardsmen pointing guns at things. I also find the irony of sleeping next to artillery and being told to 'shush' funny. 
+
+Unfortunately, this crew's position was later targeted by [The Borrowed](/workshop/the-borrowed-war-dogs/), a pair of mercenary War Dogs acting as Imperial Knights hired by the Death Guard to assault the 508th's trench line. RIP.
 
 **The basing work** ties it all together. Thick mud built up around the gun platform, toxic puddles using the toxic puddle idea technique from my [Death Guard bases](/workshop/toxic-wasteland-bases/) but in a more muted, non-nurgle palette. The whole thing looks like it's been sitting in the same churned-up position for days.
 

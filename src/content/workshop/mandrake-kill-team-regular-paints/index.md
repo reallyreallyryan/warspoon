@@ -1,7 +1,7 @@
 ---
 title: "Mandrake Kill Team — Comic Book Style (First 5)"
 description: "The first 5 Mandrakes from my Kill Team painted in comic book style with regular paints and Higgins Black Magic ink. Paint recipes, lessons learned, and the start of an experiment."
-date: 2026-02-29
+date: 2026-04-02
 tags: ["kill-team", "showcase", "recipe", "comic-book", "mandrakes"]
 cover: ./mandrake-hero-blog-image.webp
 coverAlt: "Five Mandrakes painted in comic book style with bold black lining"

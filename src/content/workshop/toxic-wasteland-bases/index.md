@@ -4,7 +4,8 @@ description: "How I made toxic wasteland bases for my Death Guard using basing g
 date: 2026-01-05
 tags: ["death-guard", "bases", "recipe", "showcase"]
 cover: ./cover.webp
-coverAlt: "Biologus Putrifier on toxic wasteland base with green sludge puddles and dark earth"
+coverAlt: "Close-up of a Death Guard toxic wasteland base showing layered green sludge with text overlay"
+lastModified: 2026-02-26
 images:
   - src: ./typhus-base-overhead.webp
     alt: "Typhus model from above showing toxic wasteland base with green puddles and cork rock details"
@@ -18,6 +19,18 @@ images:
     alt: "Character base close-up with cork rocks, dark earth, and layered green toxic puddles"
   - src: ./toxic-plauge-bases.webp
     alt: "Two Plague Marine bases from a low angle showing a more solid painted-looking toxic effect"
+  - src: ./toxic-waste-bases-main-marines-close-up.webp
+    alt: "Close-up of Plague Marine bases after layering fix showing translucent green sludge depth"
+  - src: ./toxic-waste-bases-main-example-mix.webp
+    alt: "Palette showing translucent water texture and paint mixture used for toxic base layering"
+  - src: ./toxic-waste-bases-main-adding-mixture.webp
+    alt: "Applying the toxic sludge mixture to a Death Guard base with a brush"
+  - src: ./toxic-waste-bases-main-with-nurgling.webp
+    alt: "Toxic wasteland base with Nurgling showing varied depth and translucency in the green sludge"
+  - src: ./toxic-waste-bases-single-front.webp
+    alt: "Single Plague Marine from the front showing toxic sludge dripping over the base rim"
+  - src: ./toxic-waste-bases-main-full-squad.webp
+    alt: "Full Death Guard squad showing updated toxic wasteland bases with layered green sludge"
 draft: false
 ---
 
@@ -86,7 +99,6 @@ Some of the basing glue spilled over the rims of the bases. It dripped down the 
 Could I have done it more intentionally and made it look cleaner? Absolutely. But the effect works, and sometimes the best results come from committing to an accident instead of fighting it. 
 
 ![Top-down close-up of a Death Guard base showing layered toxic green sludge texture](./groupshot.webp)
-<!-- TODO: Side view showing rim/spill effect -->
 
 ## A Note on Adhesion
 
@@ -97,3 +109,67 @@ For characters and bigger models, consider pinning through the foot into the bas
 ![Death Guard army showing toxic wasteland bases across Plague Marines, Terminators, and characters](./top-view-toxic-bases.webp)
 
 ---
+
+## Update: The Layering Fix
+
+After everything dried, I wasn't happy with the Plague Marine bases. They looked like painted surfaces, not toxic sludge. So I went back and built up layers like I did on the characters.
+
+![Two Plague Marine bases from a low angle showing a more solid painted-looking toxic effect](./toxic-plauge-bases.webp)
+
+![Close-up of Plague Marine bases after layering fix showing translucent green sludge depth](./toxic-waste-bases-main-marines-close-up.webp)
+
+The difference is significant. One coat reads as paint on a base. Three or four coats reads as something wet and foul that you don't want to touch.
+
+### The Process
+
+Each layer is water texture mixed with watered-down paint. Not painted over, but lightly mixed in. The water texture stays translucent even when tinted, so you're stacking colors that show through each other.
+
+![Palette showing translucent water texture and paint mixture used for toxic base layering](./toxic-waste-bases-main-example-mix.webp)
+
+![Applying the toxic sludge mixture to a Death Guard base with a brush](./toxic-waste-bases-main-adding-mixture.webp)
+
+Between layers:
+
+- Let it dry completely
+- Mix a slightly different green into fresh water texture
+- Apply the next coat
+
+That's it.
+
+### Embrace the Mess
+
+Don't try to cover the same areas with each layer. Skip spots. Hit different patches. Let it be random and inconsistent.
+
+![Toxic wasteland base with Nurgling showing varied depth and translucency in the green sludge](./toxic-waste-bases-main-with-nurgling.webp)
+
+If you're building a single uniform puddle, that's a different technique. This is sludge! It's toxic waste dripping off corrupted armor and seeping into the ground. The uneven coverage is what sells it. Some areas get hit with every layer and look thick and saturated. Some spots only caught one coat and look thinner. That variation is the point.
+
+Remember the concept: the corruption spreads FROM the Death Guard. It's not a neat pool they stepped in. It's filth they're leaving... everywhere.
+
+### On Color Choice
+
+Don't overthink what green to use for each layer. Darker, lighter, more yellow, more blue. It genuinely doesn't matter that much. It's toxic waste. There's no "correct" color for fictional slime that's corrupting the ground beneath a plague marine's feet.
+
+Just make it gross. Vary it enough that you get some depth. Move on.
+
+### The Drips
+
+In the original post I mentioned the happy accident with glue spilling over the rim. This time I tried to encourage it intentionally.
+
+![Single Plague Marine from the front showing toxic sludge dripping over the base rim](./toxic-waste-bases-single-front.webp)
+
+The key is letting it happen naturally. Tip the base slightly while the mixture is still wet. Let gravity pull it where it wants to go. Don't try to paint drips on or force them into specific spots. If a drip happens, great. If it doesn't on that base, that's fine too.
+
+What you don't want is every single base with perfectly placed drips in the same spot. That stops looking like accident and starts looking like a design choice. One or two drips per base, varied placement, some bases with none at all.
+
+It's a small thing but it sets these apart. Clean base rims are so standard that your eye skips right past them. A drip catches attention. It says the corruption is so severe it can't be contained. The plague is literally overflowing.
+
+Worth the extra effort? Absolutely. It's barely any effort at all and it makes people pick up the model to look closer.
+
+### The Journey Continues
+
+![Full Death Guard squad showing updated toxic wasteland bases with layered green sludge](./toxic-waste-bases-main-full-squad.webp)
+
+This army started with a shitty purple paint job that never felt right. Then came the 30K bone armor scheme with autumn leaf bases that made no sense with the new look. Now we're here. Toxic wasteland bases I'm actually excited about and that look cool af.
+
+Next up: redoing the bases on my 40 poxwalkers...ahhh

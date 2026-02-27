@@ -11,6 +11,7 @@ const workshop = defineCollection({
       tags: z.array(z.enum(['showcase', 'death-guard', 'recipe', 'painting', 'bases', '3d-printing', 'terrain', 'story', 'the-borrowed', 'kill-team', 'comic-book', 'mandrakes', 'download'])),
       cover: image().optional(),
       coverAlt: z.string().optional(),
+      coverPosition: z.enum(['top', 'center', 'bottom']).default('center'),
       images: z
         .array(
           z.object({

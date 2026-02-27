@@ -12,9 +12,11 @@ interface Props {
   tags: string[];
   cover?: ImageMetadata;
   coverAlt?: string;
+  coverPosition?: 'top' | 'center' | 'bottom';
 }
 
-const { id, title, description, date, tags, cover, coverAlt } = Astro.props;
+const { id, title, description, date, tags, cover, coverAlt, coverPosition = 'center' } = Astro.props;
+const positionClass = { top: 'object-top', center: 'object-center', bottom: 'object-bottom' }[coverPosition];
 ---
 
 <article class="group rounded-lg border border-(--color-surface-700) bg-(--color-surface-800) overflow-hidden transition-colors hover:border-(--color-accent)">
@@ -25,7 +27,7 @@ const { id, title, description, date, tags, cover, coverAlt } = Astro.props;
         alt={coverAlt ?? ''}
         widths={[400, 600]}
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-        class="w-full aspect-video object-cover"
+        class={`w-full aspect-video object-cover ${positionClass}`}
         loading="lazy"
       />
     ) : (

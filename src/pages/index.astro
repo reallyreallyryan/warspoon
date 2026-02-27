@@ -50,6 +50,7 @@ const posts = (await getCollection('workshop', ({ data }) => !data.draft))
             tags={post.data.tags}
             cover={post.data.cover}
             coverAlt={post.data.coverAlt}
+            coverPosition={post.data.coverPosition}
           />
         ))}
       </div>

@@ -5,8 +5,16 @@ const year = new Date().getFullYear();
 <footer class="border-t border-(--color-surface-700) mt-16">
   <div class="mx-auto max-w-5xl px-4 py-8 text-center text-sm text-(--color-text-secondary)">
     <p>&copy; {year} Warspoon. Stir the hobby.</p>
-    <p class="mt-1">
-      <a href="/rss.xml" class="hover:text-(--color-accent) transition-colors">RSS</a>
-    </p>
+    <div class="mt-2 flex items-center justify-center gap-4">
+      <a href="https://www.instagram.com/warspoon_" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="hover:text-(--color-accent) transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+      </a>
+      <a href="https://www.pinterest.com/warspoon/" target="_blank" rel="noopener noreferrer" aria-label="Pinterest" class="hover:text-(--color-accent) transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 12a4 4 0 1 1 8 0c0 2.5-1.5 4.5-3 6l-1 4"/><line x1="12" y1="12" x2="12" y2="22"/><circle cx="12" cy="12" r="10"/></svg>
+      </a>
+      <a href="/rss.xml" aria-label="RSS" class="hover:text-(--color-accent) transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg>
+      </a>
+    </div>
   </div>
 </footer>

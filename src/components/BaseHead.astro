@@ -56,6 +56,9 @@ const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
+<!-- Pinterest -->
+<meta name="p:domain_verify" content="da968ccd977ef9c04917d5f25e2feaa8"/>
+
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title={title} href={new URL('/rss.xml', Astro.site)} />
 

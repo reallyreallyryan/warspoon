@@ -95,4 +95,4 @@ If you've been painting for a while and everything's starting to feel like the s
 
 ---
 
-*For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-paint-scheme/) about as far from comic book style as you can get. And the Mandrake Kill Team getting the full comic book treatment will get its own post when the squad is finished.*
+*For something completely different, check out my [Death Guard paint scheme](/workshop/death-guard-paint-scheme/) about as far from comic book style as you can get. And the Mandrake Kill Team getting the full comic book treatment has [its own post now](/workshop/mandrake-killteam-comic-book-style/).*

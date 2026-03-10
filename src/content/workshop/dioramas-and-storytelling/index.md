@@ -100,7 +100,7 @@ You don't need a full diorama to tell a story. The same thinking scales down to 
 
 **The base is half the story.** A model standing on a textured base is fine. A model standing in a puddle that's forming around its feet tells you it's been standing there a while. A model on a pile of rubble tells you something just got destroyed. The base isn't decoration it's the setting for your story.
 
-**Commit to the bit.** The space marine with the rocket launcher is a stupid idea tactically. It's a great idea for a diorama because it commits fully to one clear emotion. The Krieg soldier falling asleep at his post is a small, quiet moment in a game about galactic warfare. That contrast is what makes it memorable. Don't play it safe with your scenes! Weird, specific, slightly ridiculous ideas are the ones people actually remember.
+**Commit to the bit.** The space marine with the rocket launcher is a stupid idea tactically. It's a great idea for a diorama because it commits fully to one clear emotion. The Krieg soldier falling asleep at his post is a small, quiet moment in a game about galactic warfare. That contrast is what makes it memorable. Don't play it safe with your scenes! Weird, specific, slightly ridiculous ideas are the ones people actually remember. Even my [Mandrake Kill Team](/workshop/mandrake-killteam-comic-book-style/), which is painting shadow demons in comic book style, sounds weird on paper, but it works because the idea is fully committed.
 
 <!-- TODO: Gallery of all three pieces together -->
 
